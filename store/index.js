@@ -21,7 +21,7 @@ const japanesePosts = [{
 {
   id: "education-japanese",
   thumbnail: "./assets/images/coding.jpg",
-  title: "教育",
+  title: "学歴",
   previewText: "大学と自修",
 },
 {
@@ -66,56 +66,56 @@ const japanesePosts = [{
 
 const posts =[
   {
-    id: "portfolio",
+    id: "portfolio-english",
     thumbnail: "./assets/images/about-site.jpg",
     title: "Portfolio",
     previewText: "Past and current projects",
   },
   {
-    id: "work-history",
+    id: "work-history-english",
     thumbnail: "./assets/images/history.jpg",
     title: "Work History",
     previewText: "Previous and current duties",
   },
   {
-    id: "education",
+    id: "education-english",
     thumbnail: "./assets/images/coding.jpg",
     title: "Education History",
     previewText: "Formal learning",
   },
   {
-    id: "language-abilities",
+    id: "language-abilities-english",
     thumbnail: "./assets/images/language.jpg",
     title: "Language Levels",
     previewText: "English / 日本語",
   },
   {
-    id: "technologies",
+    id: "technologies-english",
     thumbnail: "./assets/images/lights-on-book.jpg",
     title: "Technologies",
     previewText: "Programming tools I've used",
   },
   {
-    id: "casual-viewing",
+    id: "casual-viewing-english",
     thumbnail: "./assets/images/youtube.jpg",
     title: "Favorite Channels",
     previewText: "Insightful Youtube videos",
   },
   {
-    id: "inspiration",
+    id: "inspiration-english",
     thumbnail: "./assets/images/pc.jpg",
     title: "Inspiration",
     previewText: "Life in pictures from pexels.com",
   },
   {
-    id: "dreams",
+    id: "dreams-english",
     isAdmin: "isAdmin",
     thumbnail: "./assets/images/dreamy.jpg",
     title: "Future Dreams",
     previewText: "Ambitions and goals",
   },
   {
-    id: "lifestyle",
+    id: "lifestyle-english",
     thumbnail: "./assets/images/lifestyle2.jpg",
     title: "Lifestyle",
     previewText: "Diet and exercise",

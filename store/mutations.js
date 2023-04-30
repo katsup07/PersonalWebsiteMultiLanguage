@@ -13,7 +13,7 @@ export default  {
     state.comments = newComments;
   },
 
-  setLanguage(state){
+  toggleLanguage(state){
    state.language = state.language === 'English' ? 'Japanese' : 'English';
   }
 };

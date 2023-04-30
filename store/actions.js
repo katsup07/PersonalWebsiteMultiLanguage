@@ -29,7 +29,7 @@ export default {
     context.commit('setMessages', messages);
   },
 
-  setLanguage(context){
-    context.commit('setLanguage');
+  toggleLanguage(context){
+    context.commit('toggleLanguage');
   }
 };

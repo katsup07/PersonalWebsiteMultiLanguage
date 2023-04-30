@@ -2,12 +2,13 @@
   <div class="header-container">
     <header class="the-header nav-list">
       <TheSideNavToggle @toggle="$emit('sidenavToggle')" />
- 
+
       <div class="logo">
         <nuxt-link to="/">
           <span class="logo-and-icon-container">
-             <span class="logo-title">Home</span><img class="home-icon" src="~/static/assets/icons/home-icon.svg"/>
-           </span>
+            <span class="logo-title">Home</span
+            ><img class="home-icon" src="~/static/assets/icons/home-icon.svg" />
+          </span>
         </nuxt-link>
       </div>
       <div class="spacer"></div>
@@ -15,46 +16,73 @@
         <ul class="nav-list">
           <li class="nav-item">
             <nuxt-link to="/about">
-              <span class="about-me-and-icon-container"><img class="contact-icon" src="~/static/assets/icons/about-icon.svg"/>AboutMe</span>
+              <span class="about-me-and-icon-container"
+                ><img
+                  class="contact-icon"
+                  src="~/static/assets/icons/about-icon.svg"
+                />AboutMe</span
+              >
             </nuxt-link>
           </li>
           <li class="nav-item"><nuxt-link to="/posts">Topics</nuxt-link></li>
           <li class="nav-item"><nuxt-link to="/contact">Contact</nuxt-link></li>
-          <li class="nav-item"><nuxt-link to="/admin/auth" v-if="!isAuth">Login</nuxt-link></li>
-          <li class="nav-item"><nuxt-link to="/admin/auth" v-if="isAuth">Logout</nuxt-link></li>
-          <li class="nav-item"><nuxt-link to="/admin/messages" v-if="isAuth">Messages</nuxt-link></li>
+          <li class="nav-item">
+            <nuxt-link to="/admin/auth" v-if="!isAuth">Login</nuxt-link>
+          </li>
+          <li class="nav-item">
+            <nuxt-link to="/admin/auth" v-if="isAuth">Logout</nuxt-link>
+          </li>
+          <li class="nav-item">
+            <nuxt-link to="/admin/messages" v-if="isAuth">Messages</nuxt-link>
+          </li>
         </ul>
       </div>
-       <span class="nav-item"><AppButton @click="changeLanguage">{{getLanguage === 'English' ? '日本語' : 'English'}}</AppButton></span>
+      <span class="nav-item"
+        ><AppButton @click="changeLanguage" v-if="showButton">{{
+          getLanguage === "English" ? "日本語" : "English"
+        }}</AppButton></span
+      >
     </header>
   </div>
 </template>
 
 <script>
-import AppButton from '../UI/AppButton.vue';
+import AppButton from "../UI/AppButton.vue";
 import TheSideNavToggle from "./TheSideNavToggle";
 
 export default {
   name: "TheHeader",
   components: {
     TheSideNavToggle,
-    AppButton
+    AppButton,
   },
   computed: {
-    isAuth(){
+    isAuth() {
       return !!this.$store.getters.getWebToken;
     },
-
-    getLanguage(){
+    getLanguage() {
       return this.$store.getters.getLanguage;
+    },
+    showButton() {
+      const path = this.$route.fullPath;
+      return !(path.includes('english') || path.includes('japanese') || path.includes('about') || path.includes('contact') || path.includes('auth'));
     }
   },
   methods: {
-    changeLanguage(){
-      console.log('changing language...');
-      this.$store.dispatch('setLanguage');
-    }
-  }
+    changeLanguage() {
+      console.log("changing language...");
+      this.$store.dispatch("toggleLanguage");
+    },
+  },
+  // beforeUpdate() {
+  //   const currentLanguage = this.$store.getters.getLanguage;
+  //   const path = this.$route.fullPath;
+
+  //   console.log(path.includes('posts'));
+    
+  //   if (path.includes("posts"))
+  //       this.showButton = false;
+  // },
 };
 </script>
 
@@ -71,13 +99,13 @@ export default {
   justify-content: space-around;
   align-items: center;
   background-color: rgb(33, 31, 31);
-  border-bottom:1px solid rgba(113, 224, 159, 0.749);
+  border-bottom: 1px solid rgba(113, 224, 159, 0.749);
   z-index: 100;
   box-sizing: border-box;
   padding: 0 20px;
 }
 
-.logo-and-icon-container{
+.logo-and-icon-container {
   display: flex;
 }
 
@@ -91,11 +119,11 @@ export default {
   color: white;
 }
 
-.logo-title{
+.logo-title {
   margin-right: 0.4rem;
 }
 
-.home-icon{
+.home-icon {
   background: white;
   border-radius: 0.2rem;
   padding: 0.1rem;
@@ -104,12 +132,12 @@ export default {
   margin-top: 0.2rem;
 }
 
-.about-me-and-icon-container{
+.about-me-and-icon-container {
   display: flex;
   margin-right: 1.4rem;
 }
 
-.contact-icon{
+.contact-icon {
   border-radius: 0.6rem;
   background: white;
   max-height: 1.4rem;
@@ -152,5 +180,4 @@ export default {
 .nav-item a.nuxt-link-active {
   color: rgb(243, 123, 123);
 }
-
 </style>
