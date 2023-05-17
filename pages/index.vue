@@ -5,19 +5,23 @@
     </section>
     <section class="mission-statement">
       <div class="nav-header-and-compass">
-        <h2>Site Navigation</h2>
+        <h2 v-if="isEnglish">Site Navigation</h2>
+        <h2 v-if="!isEnglish">サイトナビ</h2>
         <img
           class="compass-icon"
           src="~static/assets/icons/compass-regular.svg"
           alt="compass icon"
         />
       </div>
-      <p>
+      <p v-if="isEnglish">
         This site contains information about my background and personal
         interests. The AboutMe link above in the navigation bar provides a
         general overview, while the topics section has further details. If you
         have any questions, please feel free to contact me. Thank-you for
         visiting!
+      </p>
+      <p v-if="!isEnglish">
+       このサイトには私の背景と趣味が含まれています。上のAboutMeのリンクは一般的な情報があり、Topicのリンクはもっと詳しい情報があります。質問等がありましたら、Contactのリンクをクリックして、連絡する事が出来ます。よろしくお願いします！
       </p>
     </section>
     <div class="posts">
@@ -45,6 +49,9 @@ export default {
     posts() {
       return this.$store.getters.getPosts;
     },
+    isEnglish(){
+      return this.$store.getters.getLanguage === 'English';
+    }
   },
 };
 </script>

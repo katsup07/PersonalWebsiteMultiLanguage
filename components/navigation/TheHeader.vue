@@ -66,6 +66,9 @@ export default {
     showButton() {
       const path = this.$route.fullPath;
       return !(path.includes('english') || path.includes('japanese') || path.includes('about') || path.includes('contact') || path.includes('auth'));
+    },
+    isEnglish(){
+      return this.$store.getters.getLanguage === 'English';
     }
   },
   methods: {

@@ -2,24 +2,18 @@
   <div class="content-container">
     <h1>Language Abilities<img class="language-icon" src="~/static/assets/icons/language-solid-icon.svg"/></h1>
     <section>
-      <h2>English - Fluent</h2>
+      <h2>英語 - 流暢</h2>
       <ul>
-        <li>Native English speaker</li>
-        <li>Born and raised in Canada and attended school there from pre-school all the way through university</li>
-        <li>Fully literate and able communicate on a wide variety of topics</li>
+        <li>英語のネイティブスピーカー</li>
+        <li>カナダで生まれ育ち、幼稚園から大学までカナダの学校に通いました</li>
+        <li>さまざまなトピックについてコミュニケーションができる</li>
       </ul>
     </section>
     <section>
-      <h2>Japanese - <a href="https://www.jlpt.jp/e/about/levelsummary.html">JLPT N2/N3 Level</a></h2>
-      <ul>
-        <li><span class="field">Reading - N2</span></li>
-        <li><span class="field">Speaking / Listening N3</span> - Able to use everyday Japanese.</li>
-        <li><span class="field">Writing / Typing - N2/N3</span></li>
-      </ul>
       <h2>日本語 - <a href="https://www.jlpt.jp/about/levelsummary.html">日本語能力試験 N2/N3 レベル</a></h2>
       <ul>
         <li><span class="field">読む力 - N2</span></li>
-        <li><span class="field">話す力 / 聞く力 N3</span> - 日常会話レベルです。</li>
+        <li><span class="field">話す力 / 聞く力 N3</span> - 日常会話レベル</li>
         <li><span class="field">書く力 - N2/N3</span></li>
       </ul>
     </section>
