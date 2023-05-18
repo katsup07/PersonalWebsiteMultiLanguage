@@ -102,7 +102,7 @@ const posts =[
     previewText: "Insightful Youtube videos",
   },
   {
-    id: "inspiration-english",
+    id: "inspiration",
     thumbnail: "./assets/images/pc.jpg",
     title: "Inspiration",
     previewText: "Life in pictures from pexels.com",
@@ -129,9 +129,9 @@ export default () =>
   new Vuex.Store({
     state: () => ({
       webToken: null, // provides authorization to use admin features when populated with token
-      posts: posts || [], // topic posts from above in this file
+      posts: posts || [], // English topic posts from above in this file
       japanesePosts,
-      comments: tempComments, //, // comments from firebase backend
+      comments: tempComments, //, // comments from firebase
       language: 'English',
     }),
     getters,

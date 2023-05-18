@@ -55,23 +55,23 @@
         <p>カナダに生まれ育って、高校までトロントに住んでいました。その後、バンクーバーに引っ越して<a href="https://www.ubc.ca/">ブリティッシュコロンビア大学</a>に入って数学を専攻しました。卒業以来、13年日本で教師とカリキュラムコーディネーターとして働いています。</p>
         <h2 class="category">趣味</h2>
           <p>映画、料理、パズル、問題を解くこと、パソコンのハードとソフト、物を作ること、読書、健康/心理/理科/技術/工学、Youtube、ビデオゲーム、サイクリング等。</p>
-        <h2 class="category">Currently Learning</h2>
+        <h2 class="category">勉強中</h2>
         <ul>
-          <li><a href="https://www.jlpt.jp/e/about/levelsummary.html">N1/N2</a> level Japanese</li>
-          <li>Programming - <a href="https://docs.angularjs.org/guide/introduction/">angular.js</a>, <a href="https://nodejs.org/en/about/">Node.js</a>, <a href="https://www.mysql.com/">Databases</a>, <a href="https://www.npmjs.com/package/sass">SASS</a>, <a href="https://medium.com/geekculture/23-java-design-patterns-c1ff40faa5cd">design patterns</a>, <a href="https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118">best practices</a> and more</li>
+          <li>日本語能力試験 <a href="https://www.jlpt.jp/e/about/levelsummary.html">N1/N2</a> レベルの日本語</li>
+          <li>プログラミング - <a href="https://docs.angularjs.org/guide/introduction/">angular.js</a>, <a href="https://nodejs.org/en/about/">Node.js</a>, <a href="https://www.mysql.com/">Databases</a>, <a href="https://www.npmjs.com/package/sass">SASS</a>, <a href="https://medium.com/geekculture/23-java-design-patterns-c1ff40faa5cd">design patterns</a>, <a href="https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118">best practices</a> and more</li>
         </ul>
         <h2>Github</h2>
         <ul>
-          <li>Here is my <a href="https://github.com/katsup07">github</a> account with all the projects I've been working on over the past year</li>
-          <li>The ReadMe instructions have all the details for running the programs</li>
+          <li>私の<a href="https://github.com/katsup07">githubのアカウント</a>に終了したプロジェクトと開発中のプロジェクトがある</li>
+          <li>各プロジェクトのREADMEファイルにプログラムを実行するための詳細や説明がある</li>
         </ul>
-         <h2>Personality / Mindset</h2>
+         <h2>性格</h2>
         <ul>
-          <li>Easily approachable, strong interpersonal skills, and able to work together as part of a diverse team</li>
-          <li>Open to change, highly adaptable, and able to remain calm and relaxed, even in tense situations</li>
-          <li>Self motivated, highly focused, and capable of working for long hours on a task or switching between various tasks at a time</li>
-          <li>Able to learn from others, learn from mistakes, and seek out solutions to problems</li>
-          <li>Eager to take on new challenges and grow</li>
+          <li>話しやすくて, 対人スキルが高くて, チームと協力出来る</li>
+          <li>変化対応して, 方法を変えたりする事が出来る</li>
+          <li>やる気満々で, 集中力が高くて、長時間にわたって 1 つのタスクに取り組むことができる、または一度にさまざまなタスクを切り替える事が出来る</li>
+          <li>他人を見習ったり、失敗から学んだり、問題の解決策を模索したりする事が出来る</li>
+          <li>熱心で色々挑戦したくて成長したい</li>
         </ul>
       </div>
     </div>
