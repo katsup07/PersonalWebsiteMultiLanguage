@@ -37,7 +37,7 @@ const japanesePosts = [{
   previewText: "プログラミングの技術",
 },
 {
-  id: "casual-viewing-japanese",
+  id: "fav-youtube-japanese",
   thumbnail: "./assets/images/youtube.jpg",
   title: "好きなYoutube",
   previewText: "Youtubeのビデオ",
@@ -96,7 +96,7 @@ const posts =[
     previewText: "Programming tools I've used",
   },
   {
-    id: "casual-viewing-english",
+    id: "fav-youtube-english",
     thumbnail: "./assets/images/youtube.jpg",
     title: "Favorite Channels",
     previewText: "Insightful Youtube videos",

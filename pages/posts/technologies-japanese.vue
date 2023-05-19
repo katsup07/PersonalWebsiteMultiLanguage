@@ -1,8 +1,8 @@
 <template>
   <section>
     <div class="info-container">
-      <h1>Technologies<img class="microchip-icon" src="~/static/assets/icons/microchip-solid-icon.svg"/></h1>
-      <p>Technologies I have used when building applications.</p>
+      <h1>技術<img class="microchip-icon" src="~/static/assets/icons/microchip-solid-icon.svg"/></h1>
+      <p>アプリを作成する時に使用した事のある技術</p>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -41,8 +41,7 @@
   <li>iMovie</li>
   <li>OBS</li>
 </ul>
-<h2 class="learning">Currently Learning</h2>
-<li>mySql</li>
+<h2 class="learning">勉強中</h2>
 <li>Angular</li>
 <li>SASS</li>
 <p>

@@ -1,25 +1,25 @@
 <template>
   <div class="content-container">
-    <h1>Education History <img class="school-icon" src="~/static/assets/icons/school-icon.svg"/></h1>
+    <h1>学歴 <img class="school-icon" src="~/static/assets/icons/school-icon.svg"/></h1>
     <section>
-      <h2>Mathematics Degree</h2>
+      <h2>数学の学位</h2>
       <ul>
-        <li><span class="field">Type:</span> 4 year bachelors degree
-        <li><span class="field">Standing:</span> First Class with an overall A- average</li>
-        <li><span class="field">Courses</span>: Calculus(many), differential equations, partial differential equations, linear algebra, logic and proofs, discrete mathematics, probability, complex variables, linear programming, applied complex analysis, coding theory and cryptography, and euclidean geometry. Various science, programming, Chinese, Japanese, and English courses were also part of the degree</li>
-        <li><span class="field">Location:</span> <a href="https://www.ubc.ca/">The University of British Columbia</a> in Vancouver Canada</li>
-        <li><span class="field">Department: </span><a href="https://www.math.ubc.ca/">Mathematics</a></li>
-        <li><span class="field">Membership: </span><a href="https://goldenkey.org/about/">Golden Key Honours Society</a></li>
+        <li><span class="field">Type:</span> 4 年間の学士号
+        <li><span class="field">Standing:</span> ファーストクラス、A- 平均</li>
+        <li><span class="field">Courses</span>: 微積分（多数）、微分方程式、偏微分方程式、線形代数、論理と証明、離散数学、 probability, 複素解析, 線形計画法, applied complex analysis, coding theory & cryptography, ユークリッド幾何学等。 さまざまな科学、プログラミング、中国語、日本語、英語のコースも学位に含まれている。</li>
+        <li><span class="field">場所: </span><a href="https://www.ubc.ca/">ブリティッシュコロンビア大学</a>、バンクーバー　カナダのキャンパス</li>
+        <li><span class="field">学部: </span><a href="https://www.math.ubc.ca/">Mathematics</a></li>
+        <li><span class="field">会員: </span><a href="https://goldenkey.org/about/">ゴールデン キー オナーズ ソサエティ</a></li>
       </ul>
       </section>
       <section>
-      <h2>Programming</h2>
+      <h2>プログラミング</h2>
       <ul>
         <li><a href="https://www.cs.ubc.ca/~tmm/courses/cpsc111-06-spr/courseinfo.html">Computer Science 111</a> - Introduction to Computation(Java)</li>
         <li><a href="https://www.cs.ubc.ca/~gabrielm/211/courseInformation.html">Computer Science 211</a> - Introduction to Software Development(Java)</li>
-        <li><a href="https://codewithmosh.com/">Code with Mosh</a> - Data Structures, design patterns, clean code writing, refactoring, git, and also an introduction to test driven development</li>
-        <li><a href="https://www.theodinproject.com/">The Odin Project -</a> A free, full stack, project based learning curriculum that is supported by an open source community</li>
-        <li><a href="https://www.udemy.com/">Udemy</a> - Various courses about Javascript and its frameworks, such as React, Vue, Angular, Next.js, Nuxt.js, and Node.js</li>
+        <li><a href="https://codewithmosh.com/">Code with Mosh</a> - データ構造, デザイン パターン, クリーンなコードの作成, リファクタリング, git, test driven developmentの紹介</li>
+        <li><a href="https://www.theodinproject.com/">The Odin Project -</a>オープンソース コミュニティによってサポートされる、無料のフルスタックのプロジェクトベーストラーニングの学習カリキュラム</li>
+        <li><a href="https://www.udemy.com/">Udemy</a> - JavascriptとJavascriptのフレームワーク(React、Vue、Angular、Next.js、Nuxt.js、Node.jsなど)に関するコース</li>
       </ul>
     </section>
   </div>

@@ -2,11 +2,11 @@
 
     <section>
       <div class="content-container">
-      <h1>Lifestyle<img class="heart-icon" src="~/static/assets/icons/heart-icon.svg"/></h1>
+      <h1>生活<img class="heart-icon" src="~/static/assets/icons/heart-icon.svg"/></h1>
         <ul>
-          <li>Activities: Bicycle riding, working out with weights, and plenty of exercise</li>
-          <li>Diet: A balanced diet of mostly natural foods: fruits, vegetables, meat, fish, eggs, nuts etc.</li>
-          <li>Sleep: A regular sleep pattern of waking and sleeping around the same time</li>
+          <li>アクティビティ: サイクリング, 筋トレ, や運動。</li>
+          <li>ダイエット: 栄養バランスのとれた食事。主に自然食品、野菜、果物、肉、魚、卵、ナッツ等。</li>
+          <li>睡眠: ほぼ同じ時間に起きて眠る規則的な睡眠パターン。</li>
         </ul>
       </div>
     </section>
