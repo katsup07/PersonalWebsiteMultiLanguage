@@ -17,7 +17,7 @@
       <ul>
         <li><a href="https://www.cs.ubc.ca/~tmm/courses/cpsc111-06-spr/courseinfo.html">Computer Science 111</a> - Introduction to Computation(Java)</li>
         <li><a href="https://www.cs.ubc.ca/~gabrielm/211/courseInformation.html">Computer Science 211</a> - Introduction to Software Development(Java)</li>
-        <li><a href="https://codewithmosh.com/">Code with Mosh</a> - データ構造, デザイン パターン, クリーンなコードの作成, リファクタリング, git, test driven developmentの紹介</li>
+        <li><a href="https://codewithmosh.com/">Code with Mosh</a> - データ構造, デザインパターン, クリーンなコードの作成, リファクタリング, git, test driven developmentの紹介</li>
         <li><a href="https://www.theodinproject.com/">The Odin Project -</a>オープンソース コミュニティによってサポートされる、無料のフルスタックのプロジェクトベーストラーニングの学習カリキュラム</li>
         <li><a href="https://www.udemy.com/">Udemy</a> - JavascriptとJavascriptのフレームワーク(React、Vue、Angular、Next.js、Nuxt.js、Node.jsなど)に関するコース</li>
       </ul>

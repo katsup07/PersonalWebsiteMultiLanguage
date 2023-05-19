@@ -2,74 +2,74 @@
     <div class="content-container">
         <h1>Work History / Work Related Experience <img class="building-icon" src="~/static/assets/icons/briefcase-icon.svg"/></h1>
       <section>
-      <h2>Programming / Web Development</h2>
-      <div><span class="field">Years:</span> 2007-2009 & 2021-Present(~3000 hours)</div>
-      <div><h3>Skills:</h3>
+      <h2>プログラミング / Web開発</h2>
+      <div><span class="field">年:</span> 2007-2009 & 2021-現在(~3000 時間)</div>
+      <div><h3>スキル:</h3>
       <ul>
-        <li>Plan, create, and update UI/UX of websites</li>
-        <li>Connect to backends for handling data and user authentication</li>
-        <li>Use HTML, CSS, and frameworks such as React.js, Next.js, Vue.js, Nuxt.js to create websites with components</li>
-        <li>Use of flux-like patterns to manage state in stores via Redux and Vuex</li>
-        <li>Basic routing, REST APIs, MVC, and responding to requests on a backend using Node.js and Express.js</li>
-        <li>Git / GitHub for version control</li>
-        <li>Command line interfaces for managing projects</li>
-        <li>Test, debug, and refactor code</li>
-        <li>Familiar with object oriented programming principles, data structures, and some common design patterns</li>
+        <li>ウエブサイトのUI/UXの企画、作成、更新</li>
+        <li>データ処理とユーザー認証のためにバックエンドに接続する</li>
+        <li>HTML、CSS、および React.js、Next.js、Vue.js、Nuxt.js などのフレームワークを使用して、コンポーネントを含む ウエブサイトを作成する</li>
+        <li>Redux と Vuex を介してストアの状態を管理するフラックスのようなパターンの使用</li>
+        <li>ルーティング、REST API、MVC、Node.js と Express.js を使用したバックエンドでのリクエストへの応答</li>
+        <li>バージョン管理のための Git / GitHub</li>
+        <li>プロジェクト管理用のコマンドラインインターフェイス</li>
+        <li>コードのテスト、デバッグ、リファクタリング</li>
+        <li>オブジェクト指向プログラミングの原則、データ構造、およびいくつかのデザインパターンに精通している</li>
       </ul>
       </div>
       </section>
       <section>
-      <h2><a  href="https://laurus-school.com/"> Laurus International School of Science - Tokyo</a></h2>
-      <div><span class="field">Years:</span> 2016 - Present</div>
-      <div><span class="field">Positions:</span> Head Teacher/ Curriculum Coordinator / Homeroom Teacher</div>
-      <div><h3>Achievements and Awards:</h3>
+      <h2><a  href="https://laurus-school.com/">ローラス インターナショナル サイエンス スクール - 東京</a></h2>
+      <div><span class="field">年:</span> 2016 - 現在</div>
+      <div><span class="field">Positions:</span> ヘッド・ティーチャー / カリキュラムコーディネーター / 担任教師</div>
+      <div><h3>業績と受賞歴:</h3>
       <ul>
-        <li>Regularly promoted to new positions and given additional responsibilities</li>
-        <li>Salary increases of over 35% over the past 5 years</li>
-        <li>Received the teacher of the year award and best online teaching award</li>
-        <li>Received the best student performance and costumes award for Performance Day</li>
-        <li>Developed and implemented a creative and exciting project based learning curriculum for young learners</li>
-        <li>Developed other parts of the school's curriculum(math, science, social studies, and English) and helped shape the schools policies</li>
-        <li>Introduced new teachers to different educational approaches, including how to motivate and develop science minded, young, problem solvers equipped with <a href="https://www.aeseducation.com/blog/what-are-21st-century-skills">21st century skills</a> and healthy <a href="https://www.habitsofmindinstitute.org/wp-content/uploads/2018/10/HabitsofTheMindChartv2.pdf">habits of mind</a></li>
+        <li>定期的に新しい役職に昇進し、追加の責任を与えられる</li>
+        <li>過去5年間で35%以上の給与増加</li>
+        <li>Teacher of the Year AwardとBest Online Teaching Awardを受賞</li>
+        <li>パフォーマンスデーで最優秀学生パフォーマンス賞と衣装賞を受賞</li>
+        <li>若い学習者向けに、創造的でエキサイティングなプロジェクトベストラーニングのカリキュラムを開発、実施した</li>
+        <li>学校のカリキュラムの他の部分（数学、理科、社会、英語）を開発し、学校の方針の作成を支援した</li>
+        <li>新しい教師にさまざまな教育アプローチとアイデアを紹介した。これには、<a href="https://www.aeseducation.com/blog/what-are-21st-century-skills">21世紀のスキル</a>、<a href="https://www.habitsofmindinstitute.org/wp-content/uploads/2018/10/HabitsofTheMindChartv2.pdf">ハビット オブ マインド</a>、およびどうやって子供に科学的な考え方、問題解決能力を教えること </li>
       </ul>
       <div class="habits-of-mind"><img  src="~/static/assets/images/habits_of_mind2.jpg" alt="habits of mind" width="500px"/></div>
       </div>
-      <div><h3>Curriculum Coordinator Responsibilities:</h3>
+      <div><h3>カリキュラムコーディネーターの責任:</h3>
       <ul>
-        <li>Assess and adjust the curriculum standards based on results and feedback from teachers</li>
-        <li>Create student assessment tests and supporting documentation for teachers</li>
-        <li>Plan, design, and create new report cards, both the aesthetics and content</li>
-        <li>Review and recommend textbooks, instructional resources, technologies, and approaches to learning</li>
-        <li>Observe and evaluate teachers and provide feedback</li>
-        <li>Analyze and interpret student test results</li>
-        <li>Plan, organize, and conduct training sessions</li>
-        <li>Interview new candidates and assess their demo lessons</li>
-        <li>Induct new teachers into the company and ensure a smooth transition into their roles and duties, via on-going training and regular meetings</li>
+        <li>結果と教師からのフィードバックに基づいてカリキュラム基準を評価し、調整する</li>
+        <li>生徒向けののテストと教師向けのサポート文書を作成する</li>
+        <li>新しい通知表の見た目と内容を計画、デザイン、作成する</li>
+        <li>R教科書、教材、テクノロジー、学習アプローチをレビューして推奨する</li>
+        <li>教師を観察して評価し、フィードバックを提供する</li>
+        <li>生徒のテスト結果を分析および解釈する</li>
+        <li>研修を企画、開催、実施する</li>
+        <li>新しい候補者にインタビューし、デモレッスンを評価する</li>
+        <li>新しい教師を会社に迎え入れ、継続的な研修と定期的な会議を通じて、その役割と職務へのスムーズな移行を確保します</li>
       </ul>
       <div>
-        <h3>Head Teacher Responsibilities:</h3>
+        <h3>ヘッド・ティーチャーの責任:</h3>
       <ul>
-        <li>Manage, train, evaluate, and develop new teachers</li>
-        <li>Plan and organize school events, trips, and meetings</li>
-        <li>Delegate school responsibilities to members of staff</li>
-        <li>Ensure and maintain school policies and rules</li>
-        <li>Provide the school with an educational vision</li>
-        <li>Provide teachers with educational resources, innovations, and technologies</li>
-        <li>Train teachers on how to use various technologies - microscopes, solar panels, electrical circuits, computer applications, <a href="https://workspace.google.com/">Google Workspace</a> etc.</li>
-        <li>Create and maintain a positive, organised, and rewarding teaching and learning environment for both students and staff</li>
-        <li>Listen to staff, students, and parents about issues in the school and react accordingly</li>
-        <li>Conduct general oversight of the school and its operations</li>
+        <li>新しい教師の管理、研修、評価、育成</li>
+        <li>学校のイベント、旅行、会議の計画と整理</li>
+        <li>学校での責任を職員に委任する</li>
+        <li>学校の方針と規則を確保し、維持する</li>
+        <li>学校に教育ビジョンを提供する</li>
+        <li>教師に教育リソース、イノベーション、テクノロジーを提供する</li>
+        <li>顕微鏡、ソーラーパネル、電気回路、コンピューター アプリケーション、 <a href="https://workspace.google.com/">Google Workspace</a>等、色々なテクノロジーの使用方法について教師に教えます</li>
+        <li>生徒とスタッフの両方にとって、前向きで組織的でやりがいのある教育および学習環境を作成して維持する</li>
+        <li>学校内の問題について職員、生徒、保護者の意見を聞き、それに応じて対応する</li>
+        <li>学校とその運営の全般的な監督を行う</li>
       </ul>
       </div>
       </div>
-      <div><h3>Homeroom Teacher Responsibilities:</h3>
+      <div><h3>担任教師の責任:</h3>
       <ul>
-        <li>Plan and conduct lessons in English, math, science, art, social studies, music, PE, <a href="https://www.pblworks.org/what-is-pbl">project based learning</a>, <a href="https://www.britannica.com/video/193418/overview-STEM-education">STEM</a> and <a href="https://www.ictesolutions.com.au/blog/why-schools-should-invest-in-ict/">ICT</a></li>
-        <li>Track student progress, mark homework, and adapt to the various learning needs of students</li>
-        <li>Motivate, mentor, lead, inspire, and care for students</li>
-        <li>Teach students basic life skills, such as social skills, study habits, and about human emotions, especially how to be kind, sensitive, and empathetic</li>
-        <li>Communicate with parents via in person meetings, weekly emails, and parent teacher conferences
-        <li>Produce and direct student performances, science presentations, and speeches on stage in front of an audience</li>
+        <li>英語、数学、科学、美術、社会、音楽、体育、<a href="https://www.pblworks.org/what-is-pbl">プロジェクトベストラーニング</a>、<a href="https://www.britannica.com/video/193418/overview-STEM-education">STEM</a>、<a href="https://www.ictesolutions.com.au/blog/why-schools-should-invest-in-ict/">ICT</a>の授業を計画、実施する</li>
+        <li>生徒の進捗状況を追跡し、宿題を採点し、生徒のさまざまな学習ニーズに対応します</li>
+        <li>生徒をやる気にさせ、指導し、導き、鼓舞し、世話をする</li>
+        <li>生徒に、ソーシャルスキル、学習習慣などの基本的なライフスキル、そして人間の感情など</li>
+        <li>三者面談、Eメールのやり取り、ミーティングを通じて保護者とコミュニケーションをとる
+        <li>学生のパフォーマンス、科学プレゼンテーション、聴衆の前でのステージ上でのスピーチを指導し、監督する</li>
       </ul>
       </div>
       </section>
