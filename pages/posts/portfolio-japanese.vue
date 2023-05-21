@@ -11,8 +11,8 @@
         <thead>
           <tr class="categories">
             <th scope="col">アプリ</th>
-            <th scope="col">完成した日付</th>
-            <th scope="col">GitHubのリポジトリ</th>
+            <th scope="col">日付</th>
+            <th scope="col">GitHub</th>
             <th scope="col">メモ</th>
           </tr>
         </thead>
@@ -86,14 +86,14 @@ export default {
           appTitle: "Analogue Clock",
           date: "May 2022",
           gitHubLink: "https://github.com/katsup07/clock",
-          note: "アナログ時計",
+          note: "アナログ時計です",
         },
         {
           pageLink: "https://katsup07.github.io/checkers/",
           appTitle: "Checkers",
           date: "May 2022",
           gitHubLink: "https://github.com/katsup07/checkers",
-          note: "まずチェッカーをクリックして、次空いてる青い四角い所をクリックしたら、チェッカーが動く",
+          note: "まずチェッカーをクリックして、次空いてる青い四角い所をクリックしたら、チェッカーが動きます",
         },
         {
           pageLink: "https://katsup07.github.io/etch-a-sketch/",

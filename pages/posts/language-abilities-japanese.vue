@@ -4,16 +4,16 @@
     <section>
       <h2>英語 - 流暢</h2>
       <ul>
-        <li>英語のネイティブスピーカー</li>
+        <li>英語のネイティブスピーカーです</li>
         <li>カナダで生まれ育ち、幼稚園から大学までカナダの学校に通いました</li>
-        <li>さまざまなトピックについてコミュニケーションができる</li>
+        <li>さまざまなトピックについてコミュニケーションができます</li>
       </ul>
     </section>
     <section>
       <h2>日本語 - <a href="https://www.jlpt.jp/about/levelsummary.html">日本語能力試験 N2/N3 レベル</a></h2>
       <ul>
         <li><span class="field">読む力 - N2</span></li>
-        <li><span class="field">話す力 / 聞く力 N3</span> - 日常会話レベル</li>
+        <li><span class="field">話す力 / 聞く力 N3</span> - 日常会話レベルです</li>
         <li><span class="field">書く力 - N2/N3</span></li>
       </ul>
     </section>
