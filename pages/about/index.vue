@@ -82,7 +82,6 @@
 export default {
   computed:{
     isEnglish(){
-      console.log('language!!! ', this.$store.getters.getLanguage);
       return this.$store.getters.getLanguage === 'English';
     }
   }

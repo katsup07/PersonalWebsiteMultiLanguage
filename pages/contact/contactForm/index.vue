@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import ContactForm from "../../../components/admin/ContactForm.vue";
+import ContactForm from '../../../components/admin/ContactForm.vue';
 export default {
   layout: "default",
   components: {

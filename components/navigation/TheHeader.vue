@@ -38,7 +38,7 @@
         </ul>
       </div>
       <span class="nav-item"
-        ><AppButton @click="changeLanguage" v-if="showButton">{{
+        ><AppButton @click="changeLanguage">{{
           getLanguage === "English" ? "日本語" : "English"
         }}</AppButton></span
       >
@@ -56,6 +56,11 @@ export default {
     TheSideNavToggle,
     AppButton,
   },
+  data() {
+    return {
+      language: this.$store.getters.getLanguage,
+    };
+  },
   computed: {
     isAuth() {
       return !!this.$store.getters.getWebToken;
@@ -63,29 +68,23 @@ export default {
     getLanguage() {
       return this.$store.getters.getLanguage;
     },
-    showButton() {
-      const path = this.$route.fullPath;
-      return !(path.includes('english') || path.includes('japanese') || path.includes('about') || path.includes('contact') || path.includes('auth') || path.includes('inspiration'));
-    },
-    isEnglish(){
-      return this.$store.getters.getLanguage === 'English';
-    }
+  },
+  beforeUpdate() {
+    this.language = this.$store.getters.getLanguage;
+
+    const pathSections = this.$route.path.split("-");
+    if (!pathSections[1]) return;
+
+    if (this.language === "Japanese")
+      this.$router.push(pathSections[0] + "-" + "japanese");
+    // this.language === "English"
+    else this.$router.push(pathSections[0] + "-" + "english");
   },
   methods: {
     changeLanguage() {
-      console.log("changing language...");
       this.$store.dispatch("toggleLanguage");
     },
   },
-  // beforeUpdate() {
-  //   const currentLanguage = this.$store.getters.getLanguage;
-  //   const path = this.$route.fullPath;
-
-  //   console.log(path.includes('posts'));
-    
-  //   if (path.includes("posts"))
-  //       this.showButton = false;
-  // },
 };
 </script>
 

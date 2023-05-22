@@ -13,7 +13,7 @@ const japanesePosts = [{
   previewText: "現在と過去のプロジェクト",
 },
 {
-  id: "work-history-japanese",
+  id: "workHistory-japanese",
   thumbnail: "./assets/images/history.jpg",
   title: "職歴",
   previewText: "現在と過去の仕事",
@@ -25,7 +25,7 @@ const japanesePosts = [{
   previewText: "大学と自修",
 },
 {
-  id: "language-abilities-japanese",
+  id: "languageAbilities-japanese",
   thumbnail: "./assets/images/language.jpg",
   title: "言語の実力",
   previewText: "英語 / 日本語",
@@ -37,7 +37,7 @@ const japanesePosts = [{
   previewText: "プログラミングの技術",
 },
 {
-  id: "fav-youtube-japanese",
+  id: "favYoutube-japanese",
   thumbnail: "./assets/images/youtube.jpg",
   title: "好きなYoutube",
   previewText: "Youtubeのビデオ",
@@ -72,7 +72,7 @@ const posts =[
     previewText: "Past and current projects",
   },
   {
-    id: "work-history-english",
+    id: "workHistory-english",
     thumbnail: "./assets/images/history.jpg",
     title: "Work History",
     previewText: "Previous and current duties",
@@ -84,7 +84,7 @@ const posts =[
     previewText: "Formal learning",
   },
   {
-    id: "language-abilities-english",
+    id: "languageAbilities-english",
     thumbnail: "./assets/images/language.jpg",
     title: "Language Levels",
     previewText: "English / 日本語",
@@ -96,7 +96,7 @@ const posts =[
     previewText: "Programming tools I've used",
   },
   {
-    id: "fav-youtube-english",
+    id: "favYoutube-english",
     thumbnail: "./assets/images/youtube.jpg",
     title: "Favorite Channels",
     previewText: "Insightful Youtube videos",

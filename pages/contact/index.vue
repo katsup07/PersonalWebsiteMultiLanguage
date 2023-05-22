@@ -3,30 +3,70 @@
     <section>
       <div class="contact-info-container">
         <div class="heading-and-icon">
-          <h1>Contact</h1>
-          <img class="envelope-icon" src="~/static/assets/icons/envelope-icon.svg"/>
+          <h1>{{ contact.header }}</h1>
+          <img
+            class="envelope-icon"
+            src="~/static/assets/icons/envelope-icon.svg"
+          />
         </div>
-        <div class="field"><span class="field-title">Name</span>: Brett</div>
-        <div class="field"><span class="field-title">Email</span>: brett_7y7@yahoo.ca</div>
-        <div class="field"><span class="field-title">Phone</span>: 080-4048-0976</div>
-        <p>Alternatively, you can also send me a message directly here via the following form.</p>
-          <AppButton @click="$router.push('/admin/contact-form')" 
-            >Send Message</AppButton
-          >
-       
+
+        <div class="field">
+          <span class="field-title">{{ contact.name }}</span
+          >: Brett
+        </div>
+        <div class="field">
+          <span class="field-title">{{ contact.email }}</span
+          >: brett_7y7@yahoo.ca
+        </div>
+        <div class="field">
+          <span class="field-title">{{ contact.phone }}</span
+          >: 080-4048-0976
+        </div>
+        <p>{{ contact.textContent }}</p>
+        <AppButton @click="$router.push('/contact/contactForm')">{{
+          contact.buttonContent
+        }}</AppButton>
       </div>
     </section>
   </div>
 </template>
 <script>
-import AppButton from '../../components/UI/AppButton.vue';
+import AppButton from "../../components/UI/AppButton.vue";
 
-export default({
-  components:{
-  AppButton,
-},
-})
+export default {
+  components: {
+    AppButton,
+  },
+  computed: {
+    isEnglish() {
+      return this.$store.getters.getLanguage === "English";
+    },
+    contact() {
+      const isEnglish = this.$store.getters.getLanguage === "English";
+      if (isEnglish)
+        return {
+          header: "Contact",
+          name: "Name",
+          email: "Email",
+          phone: "Phone",
+          textContent:
+            "Alternatively, you can also send me a message directly here via the following form.",
+          buttonContent: "Send Message",
+        };
 
+      if (!isEnglish)
+        return {
+          header: "連絡先",
+          name: "名前",
+          email: "Eメール",
+          phone: "電話",
+          textContent:
+            "次のフォームを使用して、メッセージを送信することもできます。",
+          buttonContent: "メッセージを送信",
+        };
+    },
+  },
+};
 </script>
 
 <style scoped>
@@ -73,12 +113,12 @@ h1 {
   font-size: 1rem;
 }
 
-.envelope-icon{
+.envelope-icon {
   max-width: 2rem;
   border: 0px;
 }
 
-.heading-and-icon{
+.heading-and-icon {
   display: flex;
   justify-content: center;
   gap: 0.7rem;

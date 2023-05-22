@@ -3,7 +3,7 @@
     <article>
       <div
         class="post-thumbnail"
-        :style="`backgroundImage:url(${thumbnail}`"
+        :style="`background-image:url(${thumbnail})`"
       ></div>
       <div class="post-content">
         <h1>{{ title }}</h1>

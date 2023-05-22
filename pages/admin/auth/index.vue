@@ -1,10 +1,10 @@
 <template>
   <div class="admin-auth-page">
     <div class="login-container" v-if="!isAuth">
-      <h1>Admin Login</h1>
+      <h1>{{ content.title }}</h1>
       <form @submit.prevent="loginHandler">
-        <AppControlInput type="email" v-model="enteredEmail">E-Mail Address</AppControlInput>
-        <AppControlInput type="password" v-model="enteredPassword">Password</AppControlInput>
+        <AppControlInput type="email" v-model="enteredEmail">{{ content.email }}</AppControlInput>
+        <AppControlInput type="password" v-model="enteredPassword">{{ content.password }}</AppControlInput>
         <AppButton type="submit">{{ isSignedUp ? 'login' : 'sign up' }}</AppButton>
         <AppButton
           type="button"
@@ -37,7 +37,7 @@ import { signUserInOrUp } from '@/util/helpers.js'
 
 export default {
   name: 'AdminAuthPage',
-  layout: 'admin',
+  layout: "default",
   components: {
     AppControlInput,
     AppButton
@@ -55,6 +55,14 @@ export default {
   computed:{
     isAuth(){
       return !!this.$store.getters.getWebToken;
+    },
+    content(){
+      const isEnglish = this.$store.getters.getLanguage === "English";
+      if(isEnglish)
+        return { title: "Admin Login", email: "E-mail", password: "Password"};
+
+      if(!isEnglish)
+        return { title: "アドミン ログイン", email: "Eメール", password: "パスワード"};
     }
   },
   methods:{
@@ -94,7 +102,7 @@ export default {
 h1{
   margin: 0;
   margin-bottom: 0.2rem;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
   text-align: center;
   color: rgb(46, 46, 46);
 }
