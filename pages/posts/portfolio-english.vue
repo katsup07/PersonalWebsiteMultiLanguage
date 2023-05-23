@@ -52,7 +52,7 @@ export default {
           appTitle: "React Games",
           date: "May 2023",
           gitHubLink: "https://github.com/katsup07/react-games",
-          note: "Created with React, React Query, chakra, zustand, Typescript, and Vercel.",
+          note: "Created with React, React Query, chakra, zustand, Typescript, and Vercel. Data is fetched from https://api.rawg.io/docs/",
         },
         {
           pageLink: "https://github.com/katsup07/gamer",
@@ -136,7 +136,7 @@ export default {
           appTitle: "Dad Jokes",
           date: "April 2022",
           gitHubLink: "https://github.com/katsup07/Dad-Jokes",
-          note: "Fetches from https://icanhazdadjoke.com/api.",
+          note: "Data is fetched from https://icanhazdadjoke.com/api.",
         },
         {
           pageLink: "https://katsup07.github.io/tic-tac-toe/",

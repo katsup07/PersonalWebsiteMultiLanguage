@@ -77,7 +77,7 @@ export default {
        }
        this.$router.push('/error');
       } catch({error}){
-        console.log('ooops an error occured', error.message);
+        console.log('Ooops an error occured.', error.message);
         this.showAlertMessage = true;
         this.error = true;
         this.alertMessage = 'Error: ' + error.message;

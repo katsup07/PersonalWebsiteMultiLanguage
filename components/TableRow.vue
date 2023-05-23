@@ -4,7 +4,7 @@
       <a :href="pageLink">{{ appTitle }}</a>
     </th>
     <td>{{ date }}</td>
-    <td><a :href="gitHubLink">code</a></td>
+    <td><a :href="gitHubLink">{{ isEnglish ? 'code' : 'コード'}}</a></td>
     <td>{{ note }}</td>
   </tr>
 </template>
@@ -32,6 +32,11 @@ export default {
       type: String,
       required: false,
     },
+  },
+  computed:{
+    isEnglish(){
+      return this.$store.getters.getLanguage === 'English';
+    }
   },
 };
 </script>
