@@ -1,6 +1,6 @@
 <template>
   <div class="content-container">
-    <h1>Language Abilities<img class="language-icon" src="~/static/assets/icons/language-solid-icon.svg"/></h1>
+    <h1>言語の実力<img class="language-icon" src="~/static/assets/icons/language-solid-icon.svg"/></h1>
     <section>
       <h2>英語 - 流暢</h2>
       <ul>

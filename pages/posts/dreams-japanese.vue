@@ -2,7 +2,7 @@
   
     <section>
      <div class="info-container">
-        <h1>Future Dreams<img class="cloud-moon-icon" src="~/static/assets/icons/cloud-moon-icon.svg"/></h1>
+        <h1>将来の夢<img class="cloud-moon-icon" src="~/static/assets/icons/cloud-moon-icon.svg"/></h1>
         <p>13年間、生徒に教えていること、そして教師の様々な仕事を通して教師であることを何を意味するか理解できて、楽しんできました。しかし、今は新しいことに挑戦して、異なる分野で働きたいです。ものをデザインしたり作ったり、数学的、論理的な問題を解いたりすることが好きなので、プログラマーとして働くのが自分に向いていると思います。プログラムを計画、作成、維持するための方法についてもっと学びたいです。</p>   
       </div>
     </section>
