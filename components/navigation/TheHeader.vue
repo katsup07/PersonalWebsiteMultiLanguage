@@ -39,7 +39,7 @@
       </div>
       <span class="nav-item"
         ><AppButton @click="changeLanguage">{{
-          getLanguage === "English" ? "日本語" : "English"
+          this.getLanguage === 'English' ? '日本語' : 'English'
         }}</AppButton></span
       >
     </header>
@@ -58,7 +58,7 @@ export default {
   },
   data() {
     return {
-      language: this.$store.getters.getLanguage,
+      // language: this.getLanguage,
     };
   },
   computed: {
@@ -69,16 +69,22 @@ export default {
       return this.$store.getters.getLanguage;
     },
   },
+  beforeMount(){ // Page resets back to English on reload. This keeps header button text and path consistent
+    const [topic, lang] = this.$route.path.split("-");
+    if(!lang) return;
+     this.$router.push(topic + "-" + "english");
+  },
   beforeUpdate() {
-    this.language = this.$store.getters.getLanguage;
+    const language = this.getLanguage;
 
-    const pathSections = this.$route.path.split("-");
-    if (!pathSections[1]) return;
+    const [topic, lang] = this.$route.path.split("-");
+    console.log(topic, lang);
+    if (!lang) return;
 
-    if (this.language === "Japanese")
-      this.$router.push(pathSections[0] + "-" + "japanese");
-    // this.language === "English"
-    else this.$router.push(pathSections[0] + "-" + "english");
+    if (language === "Japanese")
+      this.$router.push(topic + "-" + "japanese");
+    else // this.language === "English"
+      this.$router.push(topic + "-" + "english");
   },
   methods: {
     changeLanguage() {
