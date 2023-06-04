@@ -76,9 +76,8 @@ export default {
   },
   beforeUpdate() {
     const language = this.getLanguage;
-
     const [topic, lang] = this.$route.path.split("-");
-    console.log(topic, lang);
+    
     if (!lang) return;
 
     if (language === "Japanese")
