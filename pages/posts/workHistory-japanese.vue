@@ -64,7 +64,7 @@
       </div>
       <div><h3>担任教師の責任:</h3>
       <ul>
-        <li>英語、数学、科学、美術、社会、音楽、体育、<a href="https://www.pblworks.org/what-is-pbl">プロジェクトベストラーニング</a>、<a href="https://www.britannica.com/video/193418/overview-STEM-education">STEM</a>、<a href="https://www.ictesolutions.com.au/blog/why-schools-should-invest-in-ict/">ICT</a>の授業を計画、実施します</li>
+        <li>英語、数学、理科、美術、社会、音楽、体育、<a href="https://www.pblworks.org/what-is-pbl">プロジェクトベストラーニング</a>、<a href="https://www.britannica.com/video/193418/overview-STEM-education">STEM</a>、<a href="https://www.ictesolutions.com.au/blog/why-schools-should-invest-in-ict/">ICT</a>の授業を計画、実施します</li>
         <li>生徒の進捗状況を追跡し、宿題を採点し、生徒のさまざまな学習ニーズに対応します</li>
         <li>生徒をやる気にさせ、指導し、導き、鼓舞し、世話をします</li>
         <li>生徒に、ソーシャルスキル、学習習慣などの基本的なライフスキル、そして人間の感情などを教えます</li>
