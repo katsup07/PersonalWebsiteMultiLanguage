@@ -21,13 +21,13 @@
       <section>
       <h2><a  href="https://laurus-school.com/">ローラス インターナショナル サイエンス スクール - 東京</a></h2>
       <div><span class="field">年:</span> 2016 - 現在</div>
-      <div><span class="field">Positions:</span> ヘッド・ティーチャー / カリキュラムコーディネーター / 担任教師</div>
+      <div><span class="field">職位:</span> ヘッド・ティーチャー / カリキュラムコーディネーター / 担任教師</div>
       <div><h3>業績と受賞歴:</h3>
       <ul>
         <li>定期的に新しい役職に昇進し、追加の責任を与えられました</li>
         <li>過去5年間で35%以上の給与増加でした</li>
         <li>Teacher of the Year AwardとBest Online Teaching Awardを受賞しました</li>
-        <li>パフォーマンスデーで最優秀学生パフォーマンス賞と衣装賞を受賞しました</li>
+        <li>パフォーマンスデーでBest Student Performance AwardとBest Costume Design Awardを受賞しました</li>
         <li>若い学習者向けに、創造的でエキサイティングなプロジェクトベストラーニングのカリキュラムを開発、実施しました</li>
         <li>学校のカリキュラムの他の部分（数学、理科、社会、英語）を開発し、学校の方針の作成を支援しました</li>
         <li>新しい教師にさまざまな教育アプローチとアイデアを紹介しました。例えば、<a href="https://www.aeseducation.com/blog/what-are-21st-century-skills">21世紀のスキル</a>、<a href="https://www.habitsofmindinstitute.org/wp-content/uploads/2018/10/HabitsofTheMindChartv2.pdf">ハビット オブ マインド</a>、どうやって子供に科学的な考え方、問題解決能力を教えることでした</li>
@@ -75,9 +75,9 @@
       </section>
       <section>
       <h2><a href="https://www.city.osaka.lg.jp/contents/wdu020/kyoiku/english/index.html">大阪市教育委員会 - 大阪市</a></h2>
-      <div><span class="field">Years:</span> 2013 to 2016</div>
-      <div><span class="field">Position:</span> 大阪市ネイティブ英語教師(C-NET)</div>
-      <h3>責任</h3>
+      <div><span class="field">年:</span> 2013 - 2016</div>
+      <div><span class="field">職位:</span> 大阪市ネイティブ英語教師(C-NET)</div>
+      <h3>責任:</h3>
        <ul>
         <li>小学校の英語授業の企画・準備・実施しました</li>
         <li>中学校の英語授業の企画・準備・実施、およびチームティーチングしました</li>
