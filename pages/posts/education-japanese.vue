@@ -6,7 +6,7 @@
       <ul>
         <li><span class="field">学位:</span> 4年間の学士号
         <li><span class="field">順位:</span> ファーストクラス、A- 平均</li>
-        <li><span class="field">科目:</span>: 微積分（多数）、微分方程式、偏微分方程式、線形代数、論理と証明、離散数学、 probability, 複素解析, 線形計画法, applied complex analysis, coding theory & cryptography, ユークリッド幾何学等です。 さまざまな科学、プログラミング、中国語、日本語、英語のコースも学位に含まれています。</li>
+        <li><span class="field">科目:</span> 微積分（多数）、微分方程式、偏微分方程式、線形代数、論理と証明、離散数学、 probability, 複素解析, 線形計画法, applied complex analysis, coding theory & cryptography, ユークリッド幾何学等です。 さまざまな科学、プログラミング、中国語、日本語、英語のコースも学位に含まれています。</li>
         <li><span class="field">場所: </span><a href="https://www.ubc.ca/">ブリティッシュコロンビア大学</a>、バンクーバー　カナダのキャンパス</li>
         <li><span class="field">学部: </span><a href="https://www.math.ubc.ca/">数学</a></li>
         <li><span class="field">会員: </span><a href="https://goldenkey.org/about/">ゴールデン キー オナーズ ソサエティ</a></li>

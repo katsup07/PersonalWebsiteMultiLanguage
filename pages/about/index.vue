@@ -54,7 +54,7 @@
         <h2>背景</h2>
         <p>カナダに生まれ育って、高校までトロントに住んでいました。その後、バンクーバーに引っ越して<a href="https://www.ubc.ca/">ブリティッシュコロンビア大学</a>に入って数学を専攻しました。卒業以来、13年日本で教師とカリキュラムコーディネーターとして働いています。</p>
         <h2 class="category">趣味</h2>
-          <p>映画、料理、パズル、問題を解くこと、パソコンのハードとソフト、物を作ること、読書、健康/心理/理科/技術/工学、Youtube、ビデオゲーム、サイクリング等です。</p>
+          <p>映画、料理、パズル、問題を解くこと、パソコンのハードとソフト、物を作ること、読書(健康/心理/理科/技術/工学)、Youtube、ビデオゲーム、サイクリング等です。</p>
         <h2 class="category">勉強中</h2>
         <ul>
           <li>日本語能力試験 <a href="https://www.jlpt.jp/e/about/levelsummary.html">N1/N2</a> レベルの日本語です</li>
@@ -77,8 +77,8 @@
     </div>
   </div>
 </template>
-<script>
 
+<script>
 export default {
   computed:{
     isEnglish(){
@@ -87,7 +87,6 @@ export default {
   }
 }
 </script>
-
 
 <style scoped>
 img{
