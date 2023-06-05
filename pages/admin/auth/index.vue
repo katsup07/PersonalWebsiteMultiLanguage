@@ -62,7 +62,7 @@ export default {
         return { title: "Admin Login", email: "E-mail", password: "Password"};
 
       if(!isEnglish)
-        return { title: "アドミン ログイン", email: "Eメール", password: "パスワード"};
+        return { title: "アドミン ログイン", email: "メールアドレス", password: "パスワード"};
     }
   },
   methods:{

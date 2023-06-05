@@ -91,7 +91,7 @@ export default {
           heading: "お問い合わせフォーム",
           instructions: "以下に情報を入力してください。",
           name: "名前",
-          email: "Eメール",
+          email: "メールアドレス",
           title: "件名",
           content: "内容",
           send: "送信",
