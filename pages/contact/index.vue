@@ -58,7 +58,7 @@ export default {
         return {
           header: "連絡先",
           name: "名前",
-          email: "Eメール",
+          email: "メールアドレス",
           phone: "電話",
           textContent:
             "次のフォームを使用して、メッセージを送信することもできます。",
