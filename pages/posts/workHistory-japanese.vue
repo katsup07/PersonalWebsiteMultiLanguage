@@ -30,7 +30,7 @@
         <li>パフォーマンスデーでBest Student Performance AwardとBest Costume Design Awardを受賞しました</li>
         <li>若い学習者向けに、創造的でエキサイティングなプロジェクトベストラーニングのカリキュラムを開発、実施しました</li>
         <li>学校のカリキュラムの他の部分（算数、理科、社会、英語）を開発し、学校の方針の作成を支援しました</li>
-        <li>新しい教師にさまざまな教育アプローチとアイデアを紹介しました。例えば、<a href="https://www.aeseducation.com/blog/what-are-21st-century-skills">21世紀のスキル</a>、<a href="https://www.habitsofmindinstitute.org/wp-content/uploads/2018/10/HabitsofTheMindChartv2.pdf">ハビット オブ マインド</a>、どうやって子供に科学的な考え方、問題解決能力を教えることでした</li>
+        <li>新しい教師にさまざまな教育アプローチとアイデアを紹介しました。例えば、<a href="https://www.aeseducation.com/blog/what-are-21st-century-skills">21世紀のスキル</a>、<a href="https://www.habitsofmindinstitute.org/wp-content/uploads/2018/10/HabitsofTheMindChartv2.pdf">ハビット オブ マインド</a>、どうやって子供に科学的な考え方、問題解決能力を教えることです。</li>
       </ul>
       <div class="habits-of-mind"><img  src="~/static/assets/images/habits_of_mind2.jpg" alt="habits of mind" width="500px"/></div>
       </div>
