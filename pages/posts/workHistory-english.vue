@@ -2,10 +2,11 @@
     <div class="content-container">
         <h1>Work History / Work Related Experience <img class="building-icon" src="~/static/assets/icons/briefcase-icon.svg"/></h1>
       <section>
-      <h2>Programming / Web Development</h2>
+      <h2>Programming / Web Development(Student and Freelance)</h2>
       <div><span class="field">Years:</span> 2007-2009 & 2021-Present(~3000 hours)</div>
       <div><h3>Skills:</h3>
       <ul>
+        <li>Work as a team and independently to create programs and websites</li>
         <li>Plan, create, and update UI/UX of websites</li>
         <li>Connect to backends for handling data and user authentication</li>
         <li>Use HTML, CSS, and frameworks such as React.js, Next.js, Vue.js, Nuxt.js to create websites with components</li>

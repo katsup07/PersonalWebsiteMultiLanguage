@@ -2,10 +2,11 @@
     <div class="content-container">
         <h1>職歴 / 仕事に関連する経験 <img class="building-icon" src="~/static/assets/icons/briefcase-icon.svg"/></h1>
       <section>
-      <h2>プログラミング / Web開発</h2>
+      <h2>プログラミング / Web開発（学生 / フリーランス）</h2>
       <div><span class="field">年:</span> 2007-2009 & 2021-現在(~3000 時間)</div>
       <div><h3>スキル:</h3>
       <ul>
+        <li>チームとして、または独立してプログラムやウエブサイトを作成します</li>
         <li>ウエブサイトのUI/UXの企画、作成、更新します</li>
         <li>データ処理とユーザー認証のためにバックエンドに接続します</li>
         <li>HTML、CSS、および React.js、Next.js、Vue.js、Nuxt.js などのフレームワークを使用して、コンポーネントを含む ウエブサイトを作成します</li>
