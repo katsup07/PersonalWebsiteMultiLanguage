@@ -10,7 +10,7 @@
         <li>Plan, create, and update UI/UX of websites</li>
         <li>Connect to backends for handling data and user authentication</li>
         <li>Use HTML, CSS, and frameworks such as React.js, Next.js, Vue.js, Nuxt.js to create websites with components</li>
-        <li>Use of flux-like patterns to manage state in stores via Redux and Vuex</li>
+        <li>Manage state in stores via libraries such as Redux, Vuex, Zustand etc.</li>
         <li>Basic routing, REST APIs, MVC, and responding to requests on a backend using Node.js and Express.js</li>
         <li>Git / GitHub for version control</li>
         <li>Command line interfaces for managing projects</li>

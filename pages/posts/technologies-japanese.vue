@@ -19,6 +19,14 @@
   <li>Typescript</li>
   <li>Java</li>
   <br>
+  <li>ChakraUi</li>
+  <li>StyledComponents</li>
+  <li>CSS Modules in React</li>
+  <li>Supabase</li>
+  <li>Zustand</li>
+  <li>ReactQuery</li>
+  <li>Bootstrap</li>
+  <br>
   <li>Command Line Interfaces</li>
   <li>Git</li>
   <li>Github</li>
