@@ -48,6 +48,13 @@ export default {
     return {
       tableRows: [
         {
+          pageLink: "https://trending-jade.vercel.app/",
+          appTitle: "Trending",
+          date: "June 2023",
+          gitHubLink: "https://github.com/katsup07/trending-website",
+          note: "Created with React, React Query, styled-components, zustand, Typescript, and Vercel.",
+        },
+        {
           pageLink: "https://react-games-swart.vercel.app/",
           appTitle: "React Games",
           date: "May 2023",
