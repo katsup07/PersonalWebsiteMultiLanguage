@@ -46,5 +46,10 @@ export default {
       apiKey: 'AIzaSyBR4GaaaFuFgOsbdCeI4cTbuSubFpmHhcg',
     },
   // Target: https://go.nuxtjs.dev/config-target
-  target: 'static'
+  target: 'static',
+
+  transition: {
+    name: 'fade', //CSS can be found in --> static/assets/css/global.css 
+    mode: 'out-in'
+  }
 }
