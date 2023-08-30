@@ -10,11 +10,11 @@
       </ul>
     </section>
     <section>
-      <h2>Japanese - <a href="https://www.jlpt.jp/e/about/levelsummary.html">JLPT N2 Level</a></h2>
+      <h2>Japanese - <a href="https://www.jlpt.jp/e/about/levelsummary.html">JLPT N1 / N2 - Business level</a></h2>
       <ul>
         <li><span class="field">Reading - N1</span></li>
-        <li><span class="field">Speaking / Listening N2</span> - Able to communicate in everyday Japanese</li>
-        <li><span class="field">Writing / Typing - N2</span></li>
+        <li><span class="field">Speaking / Listening N2</span></li>
+        <li><span class="field">Writing / Typing - N2 </span></li>
       </ul>
     </section>
   </div>

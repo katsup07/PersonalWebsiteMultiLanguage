@@ -52,14 +52,14 @@ export default {
           appTitle: "Trending",
           date: "June 2023",
           gitHubLink: "https://github.com/katsup07/trending-website",
-          note: "Created with React, React Query, styled-components, zustand, Typescript, and Vercel.",
+          note: "Created with React, React Query, styled-components, zustand, Typescript, Supabase, & Vercel.",
         },
         {
           pageLink: "https://react-games-swart.vercel.app/",
           appTitle: "React Games",
           date: "May 2023",
           gitHubLink: "https://github.com/katsup07/react-games",
-          note: "Created with React, React Query, chakra, zustand, Typescript, and Vercel. Data is fetched from https://api.rawg.io/docs/",
+          note: "Created with React, React Query, chakra, zustand, Typescript, & Vercel. Data is fetched from https://api.rawg.io/docs/",
         },
         {
           pageLink: "https://github.com/katsup07/gamer",

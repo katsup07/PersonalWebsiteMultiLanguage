@@ -51,14 +51,14 @@ export default {
           appTitle: "Trending",
           date: "2023年6月",
           gitHubLink: "https://github.com/katsup07/trending-website",
-          note: "React, React Query, styled-components, zustand, Typescript, やVercel。",
+          note: "React, React Query, styled-components, zustand, Typescript, Supabase, & Vercel。",
         },
         {
           pageLink: "https://react-games-swart.vercel.app/",
           appTitle: "React Games",
           date: "2023年5月",
           gitHubLink: "https://github.com/katsup07/react-games",
-          note: "React, React Query, chakra, zustand, Typescript, やVercel。データはhttps://api.rawg.io/docs/から取得します。",
+          note: "React, React Query, chakra, zustand, Typescript, & Vercel。データはhttps://api.rawg.io/docs/から取得します。",
         },
         {
           pageLink: "https://github.com/katsup07/gamer",

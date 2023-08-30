@@ -12,7 +12,7 @@
           <div class="note">(Partial details are listed above for privacy reasons. Full details can be provided on request.)</div>
         </ul>
         <h2>Motivation</h2>
-         <p>I am a mathematics degree holder currently seeking Programming / Front End Web Development work. I have 3 years experience(~3000 hours) building programs as a hobby / university student. I am highly motivated, a quick learner, and eager to develop new skills.</p>
+         <p>I am a mathematics degree holder currently seeking Programming / Front End Web Development work. I have 4 years experience(~4000 hours) building programs as a hobby / university student. I am highly motivated, a quick learner, and eager to develop new skills.</p>
         <h2>Background</h2>
         <p>I grew up in Canada and lived in Toronto until finishing highschool. I then moved to Vancouver and attended the <a href="https://www.ubc.ca/">University of British Columbia</a>, where I completed undergraduate studies in mathematics. Since then, I have been living and working as a teacher/curriculum-coordinator in Japan for the past 13 years.</p>
         <h2 class="category">Interests</h2>
@@ -50,7 +50,7 @@
           <div class="note">(詳しい個人情報は、ご要望に応じて提供できます)</div>
         </ul>
         <h2>モティベーション</h2>
-         <p>数学の学士を持ってて、プログラミングまたはフロントエンドのウェブ開発の仕事を探しています。三年間程(およそ3000時間)大学でも趣味としてもプログラムを作る経験があります。熱心でやる気があって割と早分かりする人だと思います。新しい技術を身につけたいです。</p>
+         <p>数学の学士を持っていて、プログラミングまたはフロントエンドのウェブ開発の仕事を探しています。４年間程(およそ4000時間)、大学でも趣味としてもプログラムを作る経験があります。熱心でやる気があって割と早分かりする人だと思います。新しい技術を身につけたいです。</p>
         <h2>背景</h2>
         <p>カナダに生まれ育って、高校までトロントに住んでいました。その後、バンクーバーに引っ越して<a href="https://www.ubc.ca/">ブリティッシュコロンビア大学</a>に入って数学を専攻しました。卒業以来、13年日本で教師とカリキュラムコーディネーターとして働いています。</p>
         <h2 class="category">趣味</h2>
@@ -69,7 +69,7 @@
         <ul>
           <li>話しやすくて, 対人スキルが高くて, チームと協力出来ます</li>
           <li>変化対応して, 方法を変えたりする事が出来ます</li>
-          <li>やる気満々で, 集中力が高くて、長時間にわたって 1 つのタスクに取り組むことができる、または一度にさまざまなタスクを切り替える事が出ます</li>
+          <li>やる気満々で, 集中力が高くて、長時間にわたって 1 つのタスクに取り組むことができるし、または一度にさまざまなタスクを切り替える事も出ます</li>
           <li>他人を見習ったり、失敗から学んだり、問題の解決策を模索したりする事が出来ます</li>
           <li>熱心で色々挑戦したくて成長したいです</li>
         </ul>

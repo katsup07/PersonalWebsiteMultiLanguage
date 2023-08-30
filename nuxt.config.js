@@ -48,8 +48,8 @@ export default {
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
-  transition: {
-    name: 'fade', //CSS can be found in --> static/assets/css/global.css 
-    mode: 'out-in'
-  }
+  // transition: {
+  //   name: 'fade', //CSS can be found in --> static/assets/css/global.css 
+  //   mode: 'out-in'
+  // }
 }

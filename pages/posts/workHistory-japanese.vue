@@ -2,8 +2,8 @@
     <div class="content-container">
         <h1>職歴 / 仕事に関連する経験 <img class="building-icon" src="~/static/assets/icons/briefcase-icon.svg"/></h1>
       <section>
-      <h2>プログラミング / Web開発（学生 / フリーランス）</h2>
-      <div><span class="field">年:</span> 2007-2009 & 2021-現在(~3000 時間)</div>
+      <h2>プログラミング / Web開発（学生 / 趣味）</h2>
+      <div><span class="field">年:</span> 2007-2009 & 2021-現在(~4000 時間)</div>
       <div><h3>スキル:</h3>
       <ul>
         <li>チームとして、または独立してプログラムやウエブサイトを作成します</li>

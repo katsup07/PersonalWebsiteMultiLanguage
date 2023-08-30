@@ -10,11 +10,11 @@
       </ul>
     </section>
     <section>
-      <h2>日本語 - <a href="https://www.jlpt.jp/about/levelsummary.html">日本語能力試験 N2 レベル</a></h2>
+      <h2>日本語 - <a href="https://www.jlpt.jp/about/levelsummary.html">日本語能力試験 N1 / N2 - ビジネスレベル</a></h2>
       <ul>
-        <li><span class="field">読む力 - N1</span></li>
-        <li><span class="field">話す力 / 聞く力 N2</span> - 日常会話レベルです</li>
-        <li><span class="field">書く力 - N2</span></li>
+        <li><span class="field">読解力 - N1</span></li>
+        <li><span class="field">会話力 / 聴解力 N2</span></li>
+        <li><span class="field">文章力 - N2</span></li>
       </ul>
     </section>
   </div>
