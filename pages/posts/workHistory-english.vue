@@ -9,7 +9,7 @@
         <li>Work as a team and independently to create programs and websites</li>
         <li>Plan, create, and update UI/UX of websites</li>
         <li>Connect to backends for handling data and user authentication</li>
-        <li>Use HTML, CSS, and frameworks such as React.js, Next.js, Vue.js, Nuxt.js to create websites with components</li>
+        <li>Use HTML, CSS, and frameworks such as React.js, Next.js, Vue.js, Nuxt.js, and Angular to create websites with components</li>
         <li>Manage state in stores via libraries such as Redux, Vuex, Zustand etc.</li>
         <li>Basic routing, REST APIs, MVC, and responding to requests on a backend using Node.js and Express.js</li>
         <li>Git / GitHub for version control</li>

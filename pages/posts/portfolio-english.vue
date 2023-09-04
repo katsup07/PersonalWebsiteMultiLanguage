@@ -12,7 +12,7 @@
           <tr class="categories">
             <th scope="col">Application</th>
             <th scope="col">Date</th>
-            <th scope="col">GitHub Repository</th>
+            <th scope="col">GitHub</th>
             <th scope="col">Notes</th>
           </tr>
         </thead>
@@ -48,9 +48,16 @@ export default {
     return {
       tableRows: [
         {
+          pageLink: "https://recipes-ten-vert.vercel.app/recipes",
+          appTitle: "Recipe Book",
+          date: "Sept 2023",
+          gitHubLink: "https://github.com/katsup07/recipe-book",
+          note: "Created with Angular, Typescript, Bootstrap, Firebase, and Vercel.",
+        },
+        {
           pageLink: "https://trending-jade.vercel.app/",
           appTitle: "Trending",
-          date: "June 2023",
+          date: "July 2023",
           gitHubLink: "https://github.com/katsup07/trending-website",
           note: "Created with React, React Query, styled-components, zustand, Typescript, Supabase, & Vercel.",
         },

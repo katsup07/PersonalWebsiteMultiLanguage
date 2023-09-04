@@ -46,10 +46,17 @@ export default {
   data() {
     return {
       tableRows: [
+      {
+          pageLink: "https://recipes-ten-vert.vercel.app/recipes",
+          appTitle: "Recipe Book",
+          date: "2023年9月",
+          gitHubLink: "https://github.com/katsup07/recipe-book",
+          note: "Angular, Typescript, Bootstrap, Firebase, and Vercel.",
+        },
         {
           pageLink: "https://trending-jade.vercel.app/",
           appTitle: "Trending",
-          date: "2023年6月",
+          date: "2023年7月",
           gitHubLink: "https://github.com/katsup07/trending-website",
           note: "React, React Query, styled-components, zustand, Typescript, Supabase, & Vercel。",
         },

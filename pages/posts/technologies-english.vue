@@ -13,13 +13,14 @@
   <li>Vue.js</li>
   <li>Vuex</li>
   <li>Nuxt.js</li>
+  <li>Angular</li>
   <li>Node.js</li>
   <li>Express.js</li>
   <li>EJS</li>
   <li>Typescript</li>
   <li>Java</li>
   <br>
-  <li>ChakraUi</li>
+  <li>Chakra UI</li>
   <li>StyledComponents</li>
   <li>CSS Components</li>
   <li>CSS Modules in React</li>
@@ -51,7 +52,6 @@
   <li>OBS</li>
 </ul>
 <h2 class="learning">Currently Learning</h2>
-<li>Angular</li>
 <li>SASS</li>
 <p>
 </p>

@@ -19,7 +19,7 @@
           <p>I like watching movies, cooking, puzzles and problem solving of all forms, tinkering with computer hardware and software, building and creating things, reading about health/psychology/science/tech/engineering, watching youtube, playing video games, and bicycle riding.</p>
         <h2 class="category">Currently Learning</h2>
         <ul>
-          <li><a href="https://www.jlpt.jp/e/about/levelsummary.html">N1/N2</a> level Japanese</li>
+          <li><a href="https://www.jlpt.jp/e/about/levelsummary.html">N1</a> level Japanese</li>
           <li>Programming - <a href="https://docs.angularjs.org/guide/introduction/">angular.js</a>, <a href="https://nodejs.org/en/about/">Node.js</a>, <a href="https://www.mysql.com/">Databases</a>, <a href="https://www.npmjs.com/package/sass">SASS</a>, <a href="https://medium.com/geekculture/23-java-design-patterns-c1ff40faa5cd">design patterns</a>, <a href="https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118">best practices</a> and more</li>
         </ul>
         <h2>Github</h2>
@@ -57,7 +57,7 @@
           <p>映画、料理、パズル、問題を解くこと、パソコンのハードとソフト、物を作ること、読書(健康/心理/理科/技術/工学)、Youtube、ビデオゲーム、サイクリング等です。</p>
         <h2 class="category">勉強中</h2>
         <ul>
-          <li>日本語能力試験 <a href="https://www.jlpt.jp/e/about/levelsummary.html">N1/N2</a> レベルの日本語です</li>
+          <li>日本語能力試験 <a href="https://www.jlpt.jp/e/about/levelsummary.html">N1</a> レベルの日本語です</li>
           <li>プログラミング - <a href="https://docs.angularjs.org/guide/introduction/">angular.js</a>, <a href="https://nodejs.org/en/about/">Node.js</a>, <a href="https://www.mysql.com/">Databases</a>, <a href="https://www.npmjs.com/package/sass">SASS</a>, <a href="https://medium.com/geekculture/23-java-design-patterns-c1ff40faa5cd">design patterns</a>, <a href="https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118">best practices</a>です</li>
         </ul>
         <h2>Github</h2>
