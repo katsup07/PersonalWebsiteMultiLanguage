@@ -1,9 +1,27 @@
 <template>
     <div class="content-container">
         <h1>職歴 / 仕事に関連する経験 <img class="building-icon" src="~/static/assets/icons/briefcase-icon.svg"/></h1>
+    <section>
+      <h2><a href="https://hapins.net/">HapInS(ハピンス) - 東京</a> </h2>
+      <div><span class="field">年:</span>2023年〜現在</div>
+      <div><span class="field">職位:</span>エンジニア(フルスタック)</div>
+      <div><h3>スキル:</h3>
+        <ul>
+          <li>React.js、Nest.js、Node.js、およびGraphQL API（Hasura）を使用して、スケーラブルなウェブアプリケーションを開発および維持する</li>
+          <li>Recoilを使用してグローバルステートを管理する</li>
+          <li>AWSサービス（Fargate、EventBridge、RDS、Cognito等）を使用してクラウドインフラストラクチャを設計および展開する</li>
+          <li>Infrastructure as Code: Terraformを使用してリソースを定義、管理、プロビジョニングする</li>
+          <li>GitHub Actions（CI/CD）を使用してデプロイメントパイプラインとワークフローを自動化する</li>
+          <li>Prismaを使用したデータベース管理、マイグレーション、スキーマ定義、およびリレーショナルデータベースを含む</li>
+          <li>フレームワーク（Vitest、K6）を使用してユニットおよび負荷テストを実施する</li>
+          <li>GitおよびGitHubによるバージョン管理、コラボレーションとコードレビューを通じてコード品質を確保する</li>
+          <li>アジャイル環境で機能を計画、実装、展開するためにクロスファンクショナルチームと協力する</li>
+        </ul>
+      </div>
+    </section>
       <section>
       <h2>プログラミング / Web開発（学生 / 趣味）</h2>
-      <div><span class="field">年:</span> 2007-2009 & 2021-現在(~4000 時間)</div>
+      <div><span class="field">年:</span> 2007-2009 & 2021-現在(~5000 時間)</div>
       <div><h3>スキル:</h3>
       <ul>
         <li>チームとして、または独立してプログラムやウエブサイトを作成します</li>

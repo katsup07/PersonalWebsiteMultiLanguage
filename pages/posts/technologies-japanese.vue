@@ -27,12 +27,22 @@
   <li>Zustand</li>
   <li>ReactQuery</li>
   <li>Bootstrap</li>
+  <li>Nest.js</li>
+  <li>GraphQL</li>
+  <li>Hasura</li>
+  <li>Prisma</li>
+  <li>AWS</li>
+  <li>Terraform</li>
+  <li>Jest</li>
+  <li>Vitest</li>
+  <li>K6</li>
   <br>
   <li>Command Line Interfaces</li>
   <li>Git</li>
   <li>Github</li>
   <li>MongoDB</li>
   <li>Firebase</li>
+  <li>Docker</li>
   <li>Jest / Vitest</li>
   <li>NPM</li>
   <br>
@@ -50,10 +60,6 @@
   <li>iMovie</li>
   <li>OBS</li>
 </ul>
-<h2 class="learning">勉強中</h2>
-<li>SASS</li>
-<p>
-</p>
     </div>
   </section>
 </template>

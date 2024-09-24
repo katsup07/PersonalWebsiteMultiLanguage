@@ -1,16 +1,34 @@
 <template>
     <div class="content-container">
         <h1>Work History / Work Related Experience <img class="building-icon" src="~/static/assets/icons/briefcase-icon.svg"/></h1>
-      <section>
-      <h2>Programming / Web Development(Student / Hobby)</h2>
-      <div><span class="field">Years:</span> 2007-2009 & 2021-Present(~4000 hours)</div>
+        <section>
+      <h2><a href="https://hapins.net/">Hapins - Tokyo</a> </h2>
+      <div><span class="field">Years:</span> 2023-Present</div>
+      <div><span class="field">Position:</span> Full-stack Engineer</div>
+      <div><h3>Skills:</h3>
+        <ul>
+          <li>Develop and maintain scalable web applications using React.js, Nest.js, Node.js, and GraphQL APIs (Hasura)</li>
+          <li>Manage global state via Recoil</li>
+          <li>Design and deploy cloud infrastructure using AWS services (Fargate, EventBridge, RDS, Cognito etc.)</li>
+          <li>Infrastructure as code: Define, manage, and provision resources via Terraform</li>
+          <li>Automate deployment pipelines and workflows with GitHub Actions (CI/CD)</li>
+          <li>Database management using Prisma, including migrations, schema definitions, and relational databases</li>
+          <li>Implement unit and load testing using frameworks(Vitest, K6)</li>
+          <li>Version control with Git and GitHub, ensuring code quality through collaboration and code reviews</li>
+          <li>Collaborate with cross-functional teams to plan, implement, and deploy features in an Agile environment</li>
+        </ul>
+      </div>
+    </section>
+    <section>
+      <h2>Programming / Web Development(Student ----- / Hobby)</h2>
+      <div><span class="field">Years:</span> 2007-2009 & 2021-Present(~5000 hours)</div>
       <div><h3>Skills:</h3>
       <ul>
         <li>Work as a team and independently to create programs and websites</li>
         <li>Plan, create, and update UI/UX of websites</li>
         <li>Connect to backends for handling data and user authentication</li>
         <li>Use HTML, CSS, and frameworks such as React.js, Next.js, Vue.js, Nuxt.js, and Angular to create websites with components</li>
-        <li>Manage state in stores via libraries such as Redux, Vuex, Zustand etc.</li>
+        <li>Manage global state in stores via libraries such as Redux, Vuex, Zustand etc.</li>
         <li>Basic routing, REST APIs, MVC, and responding to requests on a backend using Node.js and Express.js</li>
         <li>Git / GitHub for version control</li>
         <li>Command line interfaces for managing projects</li>
