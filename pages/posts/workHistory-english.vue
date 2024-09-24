@@ -9,7 +9,7 @@
         <ul>
           <li>Develop and maintain scalable web applications using React.js, Nest.js, Node.js, and GraphQL APIs (Hasura)</li>
           <li>Manage global state via Recoil</li>
-          <li>Design and deploy cloud infrastructure using AWS services (Fargate, EventBridge, RDS, Cognito etc.)</li>
+          <li>Configure cloud infrastructure using AWS services (Fargate, EventBridge, RDS, Cognito etc.)</li>
           <li>Infrastructure as code: Define, manage, and provision resources via Terraform</li>
           <li>Automate deployment pipelines and workflows with GitHub Actions (CI/CD)</li>
           <li>Database management using Prisma, including migrations, schema definitions, and relational databases</li>

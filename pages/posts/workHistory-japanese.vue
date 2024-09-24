@@ -9,7 +9,7 @@
         <ul>
           <li>React.js、Nest.js、Node.js、およびGraphQL API（Hasura）を使用して、スケーラブルなウェブアプリケーションを開発および維持する</li>
           <li>Recoilを使用してグローバルステートを管理する</li>
-          <li>AWSサービス（Fargate、EventBridge、RDS、Cognito等）を使用してクラウドインフラストラクチャを設計および展開する</li>
+          <li>AWSサービス（Fargate、EventBridge、RDS、Cognito等）を使用してクラウドインフラストラクチャを設定する</li>
           <li>Infrastructure as Code: Terraformを使用してリソースを定義、管理、プロビジョニングする</li>
           <li>GitHub Actions（CI/CD）を使用してデプロイメントパイプラインとワークフローを自動化する</li>
           <li>Prismaを使用したデータベース管理、マイグレーション、スキーマ定義、およびリレーショナルデータベースを含む</li>
