@@ -1,5 +1,12 @@
 {
   "projects": {
     "default": "worksplore"
+  },
+  "targets": {
+    "your-project-id": {
+      "hosting": {
+        "site": "worksplore"
+      }
+    }
   }
 }

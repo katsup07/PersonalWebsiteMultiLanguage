@@ -12,6 +12,7 @@
     "@nuxtjs/firebase": "^8.2.2",
     "@nuxtjs/fontawesome": "^1.1.2",
     "core-js": "^3.25.3",
+    "dotenv": "^16.4.5",
     "firebase": "^9.15.0",
     "nuxt": "^2.15.8",
     "vue": "^2.7.10",

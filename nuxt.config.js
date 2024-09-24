@@ -1,3 +1,5 @@
+require('dotenv').config(); // Load .env file variables
+
 export default {
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
@@ -43,7 +45,7 @@ export default {
   },
    
   env: {
-      apiKey: 'AIzaSyBR4GaaaFuFgOsbdCeI4cTbuSubFpmHhcg',
+      apiKey: process.env.apiKey,
     },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
