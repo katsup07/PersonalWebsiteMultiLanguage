@@ -7,15 +7,15 @@
       <div><span class="field">職位:</span>エンジニア(フルスタック)</div>
       <div><h3>スキル:</h3>
         <ul>
-          <li>React.js、Nest.js、Node.js、およびGraphQL API（Hasura）を使用して、スケーラブルなウェブアプリケーションを開発および維持する</li>
-          <li>Recoilを使用してグローバルステートを管理する</li>
-          <li>AWSサービス（Fargate、EventBridge、RDS、Cognito等）を使用してクラウドインフラストラクチャを設定する</li>
-          <li>Infrastructure as Code: Terraformを使用してリソースを定義、管理、プロビジョニングする</li>
-          <li>GitHub Actions（CI/CD）を使用してデプロイメントパイプラインとワークフローを自動化する</li>
-          <li>Prismaを使用したデータベース管理、マイグレーション、スキーマ定義、およびリレーショナルデータベースを含む</li>
-          <li>フレームワーク（Vitest、K6）を使用してユニットおよび負荷テストを実施する</li>
-          <li>GitおよびGitHubによるバージョン管理、コラボレーションとコードレビューを通じてコード品質を確保する</li>
-          <li>アジャイル環境で機能を計画、実装、展開するためにクロスファンクショナルチームと協力する</li>
+          <li>React.js、Nest.js、Node.js、およびGraphQL API（Hasura）を使用して、スケーラブルなウェブアプリケーションを開発および維持します</li>
+          <li>Recoilを使用してグローバルステートを管理します</li>
+          <li>AWSサービス（Fargate、EventBridge、RDS、Cognito等）を使用してクラウドインフラストラクチャを設定します</li>
+          <li>Infrastructure as Code: Terraformを使用してリソースを定義、管理、プロビジョニングします</li>
+          <li>GitHub Actions（CI/CD）を使用してデプロイメントパイプラインとワークフローを自動化します</li>
+          <li>Prismaを使用したデータベース管理、マイグレーション、スキーマ定義、およびリレーショナルデータベースを含みます</li>
+          <li>フレームワーク（Vitest、K6）を使用してユニットおよび負荷テストを実施します</li>
+          <li>GitおよびGitHubによるバージョン管理、コラボレーションとコードレビューを通じてコード品質を確保します</li>
+          <li>アジャイル環境で機能を計画、実装、展開するためにクロスファンクショナルチームと協力します</li>
         </ul>
       </div>
     </section>
