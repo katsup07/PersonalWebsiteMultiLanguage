@@ -44,9 +44,9 @@
       <section>
       <h2>Exploring Japan</h2>
       <img src="~/static/assets/images/japan-map.jpg" alt="日本の地図"/>
-      <p><a href="https://www.youtube.com/watch?v=YEehwwTEJP4">Tokyo Lens</a> - 日本での素晴らしい生活を記録し、共有するYouTubeチャンネル</p>
-      <p><a href="https://www.youtube.com/watch?v=qDUVG1gR6rI">Abroad in Japan</a> - イギリス人が日本での生活を体験しているチャンネル</p>
-      <p><a href="https://www.youtube.com/@takashiifromjapan">TAKASHii</a> - 日本のさまざまな側面に関する動画</p>
+      <p><a href="https://www.youtube.com/watch?v=YEehwwTEJP4">Tokyo Lens</a> - 日本での素晴らしい生活を記録し、共有するYouTubeチャンネルです</p>
+      <p><a href="https://www.youtube.com/watch?v=qDUVG1gR6rI">Abroad in Japan</a> - イギリス人が日本での生活を体験しているチャンネルです</p>
+      <p><a href="https://www.youtube.com/@takashiifromjapan">TAKASHii</a> - 日本のさまざまな側面に関する動画です</p>
     </section>
 
   </div>
