@@ -6,7 +6,10 @@
     "dev": "nuxt",
     "build": "nuxt build",
     "start": "nuxt start",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "lint:run": "npm run lint && npm run lint:fix"
   },
   "dependencies": {
     "@nuxtjs/firebase": "^8.2.2",

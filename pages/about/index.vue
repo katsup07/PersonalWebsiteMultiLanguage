@@ -12,9 +12,9 @@
           <div class="note">(Partial details are listed above for privacy reasons. Full details can be provided on request.)</div>
         </ul>
         <h2>Motivation</h2>
-         <p>I am a mathematics degree holder currently seeking Programming / Front End Web Development work. I have 4 years experience(~4000 hours) building programs as a hobby / university student. I am highly motivated, a quick learner, and eager to develop new skills.</p>
+        <p>As a full-stack engineer, I develop both front-end and back-end systems. I enjoy solving diverse challenges, whether they're logic-driven technical problems or human-centered issues. With a passion for continuous learning, I'm always eager to take on new challenges and expand my skill set.</p>
         <h2>Background</h2>
-        <p>I grew up in Canada and lived in Toronto until finishing highschool. I then moved to Vancouver and attended the <a href="https://www.ubc.ca/">University of British Columbia</a>, where I completed undergraduate studies in mathematics. Since then, I have been living and working as a teacher/curriculum-coordinator in Japan for the past 13 years.</p>
+        <p>I grew up in Canada and lived in Toronto until finishing highschool. I then moved to Vancouver and attended the <a href="https://www.ubc.ca/">University of British Columbia</a>, where I completed undergraduate studies in mathematics. Since then, I have been living and working as a teacher/curriculum-coordinator/engineer in Japan for the past 14.5 years.</p>
         <h2 class="category">Interests</h2>
           <p>I like watching movies, cooking, puzzles and problem solving of all forms, tinkering with computer hardware and software, building and creating things, reading about health/psychology/science/tech/engineering, watching youtube, playing video games, and bicycle riding.</p>
         <h2 class="category">Currently Learning</h2>
@@ -28,13 +28,13 @@
           <li>The ReadMe instructions have all the details for running the programs</li>
         </ul>
          <h2>Personality / Mindset</h2>
-        <ul>
-          <li>Easily approachable, strong interpersonal skills, and able to work together as part of a diverse team</li>
-          <li>Open to change, highly adaptable, and able to remain calm and relaxed, even in tense situations</li>
-          <li>Self motivated, highly focused, and capable of working for long hours on a task or switching between various tasks at a time</li>
-          <li>Able to learn from others, learn from mistakes, and seek out solutions to problems</li>
-          <li>Eager to take on new challenges and grow</li>
-        </ul>
+       <ul> 
+        <li>Easily approachable with strong interpersonal skills, capable of collaborating within a diverse team</li> 
+        <li>Open to change and highly adaptable, maintaining composure in tense situations</li> 
+        <li>Self-motivated and focused, adept at managing long hours and multitasking effectively</li> 
+        <li>Able to learn from others and mistakes, while actively seeking solutions to problems</li> 
+        <li>Enthusiastic about taking on new challenges and growing</li> 
+      </ul>
       </div>
     </div>
 
@@ -50,9 +50,9 @@
           <div class="note"> （詳しい個人情報は、ご要望に応じて提供できます） </div>
         </ul>
         <h2>モティベーション</h2>
-         <p>数学の学士を持っていて、プログラミングまたはフロントエンドのウェブ開発の仕事を探しています。４年間程(およそ4000時間)、大学でも趣味としてもプログラムを作る経験があります。熱心でやる気があって割と早分かりする人だと思います。新しい技術を身につけたいです。</p>
+        <p>日本でフルスタックエンジニアとして、フロントエンドとバックエンドのシステムを開発しています。論理的な技術的課題や人に関わる問題など、さまざまな課題を解決することが大好きです。いつも学び続けることに情熱を持ち、新しい挑戦を楽しみにしており、スキルをさらに磨いていきたいと考えています。</p>
         <h2>背景</h2>
-        <p>カナダに生まれ育って、高校までトロントに住んでいました。その後、バンクーバーに引っ越して<a href="https://www.ubc.ca/">ブリティッシュコロンビア大学</a>に入って数学を専攻しました。卒業以来、13年日本で教師とカリキュラムコーディネーターとして働いています。</p>
+        <p>カナダに生まれ育って、高校までトロントに住んでいました。その後、バンクーバーに引っ越して<a href="https://www.ubc.ca/">ブリティッシュコロンビア大学</a>に入って数学を専攻しました。卒業以来、14.5年間日本で教師/カリキュラムコーディネーター/エンジニアとして働いてきました。</p>
         <h2 class="category">趣味</h2>
           <p>映画、料理、パズル、問題を解くこと、パソコンのハードとソフト、物を作ること、読書(健康/心理/理科/技術/工学)、Youtube、ビデオゲーム、サイクリング等です。</p>
         <h2 class="category">勉強中</h2>
@@ -67,11 +67,13 @@
         </ul>
          <h2>性格</h2>
         <ul>
-          <li>話しやすくて, 対人スキルが高くて, チームと協力出来ます</li>
-          <li>変化対応して, 方法を変えたりする事が出来ます</li>
-          <li>やる気満々で, 集中力が高くて、長時間にわたって 1 つのタスクに取り組むことができるし、または一度にさまざまなタスクを切り替える事も出ます</li>
-          <li>他人を見習ったり、失敗から学んだり、問題の解決策を模索したりする事が出来ます</li>
-          <li>熱心で色々挑戦したくて成長したいです</li>
+          <li>話しやすく、対人スキルが高く、チームと協力できます</li> 
+          <li>変化に柔軟に対応し、方法を変えることができます</li> 
+          <li>やる気があり、集中力が高く、長時間にわたって1つのタスクに取り組むことができ、<br>
+              または一度にさまざまなタスクを切り替えることもできます
+          </li>
+          <li>他者から学び、失敗から教訓を得て、問題の解決策を模索できます</li> 
+          <li>熱心で、新しい挑戦に取り組み、成長していきたいです</li>
         </ul>
       </div>
     </div>
