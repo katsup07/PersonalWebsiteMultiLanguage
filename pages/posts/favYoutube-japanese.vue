@@ -40,6 +40,15 @@
       <p><a href="https://www.youtube.com/@gaminghistorian/videos">Gaming Historian</a> - 「スーパー マリオ ブラザーズ 3 の物語」など、ビデオ ゲームの歴史に関するドキュメンタリーです</p>
       <p><a href="https://www.youtube.com/@NoclipDocs/videos">Noclip</a> - 前にGamespot Newsで働いていたDanny O'Dwyerが詳細なビデオゲームのドキュメンタリーを発表します</p>
     </section>
+    <hr class="dividing-line">
+      <section>
+      <h2>Exploring Japan</h2>
+      <img src="~/static/assets/images/japan-map.jpg" alt="日本の地図"/>
+      <p><a href="https://www.youtube.com/watch?v=YEehwwTEJP4">Tokyo Lens</a> - 日本での素晴らしい生活を記録し、共有するYouTubeチャンネル</p>
+      <p><a href="https://www.youtube.com/watch?v=qDUVG1gR6rI">Abroad in Japan</a> - イギリス人が日本での生活を体験しているチャンネル</p>
+      <p><a href="https://www.youtube.com/@takashiifromjapan">TAKASHii</a> - 日本のさまざまな側面に関する動画</p>
+    </section>
+
   </div>
 </template>
 
@@ -69,6 +78,7 @@ img.youtube-icon{
   max-width: 3rem;
   margin-left: 0.5rem;
   border: none;
+  filter: invert(18%) sepia(100%) saturate(7496%) hue-rotate(357deg) brightness(97%) contrast(104%);
 }
 
 .content-container{

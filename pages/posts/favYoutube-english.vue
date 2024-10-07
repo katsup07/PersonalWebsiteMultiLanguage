@@ -40,6 +40,13 @@
       <p><a href="https://www.youtube.com/@gaminghistorian/videos">Gaming Historian</a> - Documentaries covering the history of video games, such as the "The Story of Super Mario Bros 3".</p>
       <p><a href="https://www.youtube.com/@NoclipDocs/videos">Noclip</a> - In depth video game documentaries, by Danny O'Dwyer, who formerly worked at Gamespot News.</p>
     </section>
+    <hr class="dividing-line">
+    <h2>Exploring Japan</h2>
+    <img src="~/static/assets/images/japan-map.jpg" alt="map of Japan"/>
+      <p><a href="https://www.youtube.com/watch?v=YEehwwTEJP4">Tokyo Lens</a> - A lifestyle-focused YouTube channel dedicated to exploring and sharing the various aspects of life in Japan.</p>
+      <p><a href="https://www.youtube.com/watch?v=qDUVG1gR6rI">Abroad in Japan</a> - "British guy living and experiencing life in Japan."</p>
+      <p><a href="https://www.youtube.com/@takashiifromjapan">TAKASHii</a> - Videos inquiring about different aspects of Japan.</p>
+    </section>
   </div>
 </template>
 
@@ -69,6 +76,7 @@ img.youtube-icon{
   max-width: 3rem;
   margin-left: 0.5rem;
   border: none;
+  filter: invert(18%) sepia(100%) saturate(7496%) hue-rotate(357deg) brightness(97%) contrast(104%);
 }
 
 .content-container{
