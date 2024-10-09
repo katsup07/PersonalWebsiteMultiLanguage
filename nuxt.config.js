@@ -54,4 +54,9 @@ export default {
   //   name: 'fade', //CSS can be found in --> static/assets/css/global.css 
   //   mode: 'out-in'
   // }
+   // Define page transition settings
+   pageTransition: {
+    name: 'fade',  // This name should match the CSS class for the transition
+    mode: 'out-in', // Use "out-in" to first transition out the current page, then transition in the new one
+  }
 }
