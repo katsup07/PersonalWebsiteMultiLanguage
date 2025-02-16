@@ -21,7 +21,7 @@
     </section>
       <section>
       <h2>プログラミング / Web開発（学生 / 趣味）</h2>
-      <div><span class="field">年:</span> 2007-2009 & 2021-現在(~5000 時間)</div>
+      <div><span class="field">年:</span> 2007-2009 & 2021-現在(~8000 時間)</div>
       <div><h3>スキル:</h3>
       <ul>
         <li>チームとして、または独立してプログラムやウエブサイトを作成します</li>
@@ -39,7 +39,7 @@
       </section>
       <section>
       <h2><a  href="https://laurus-school.com/">ローラス インターナショナル サイエンス スクール - 東京</a></h2>
-      <div><span class="field">年:</span> 2016 - 現在</div>
+      <div><span class="field">年:</span> 2016 - 2024</div>
       <div><span class="field">職位:</span> ヘッド・ティーチャー / カリキュラムコーディネーター / 担任教師</div>
       <div><h3>業績と受賞歴:</h3>
       <ul>

@@ -14,7 +14,7 @@
         <h2>Motivation</h2>
         <p>As a full-stack engineer, I develop both front-end and back-end systems. I enjoy solving diverse challenges, whether they're logic-driven technical problems or human-centered issues. With a passion for continuous learning, I'm always eager to take on new challenges and expand my skill set.</p>
         <h2>Background</h2>
-        <p>I grew up in Canada and lived in Toronto until finishing highschool. I then moved to Vancouver and attended the <a href="https://www.ubc.ca/">University of British Columbia</a>, where I completed undergraduate studies in mathematics. Since then, I have been living and working as a teacher/curriculum-coordinator/engineer in Japan for the past 14.5 years.</p>
+        <p>I grew up in Canada and lived in Toronto until finishing highschool. I then moved to Vancouver and attended the <a href="https://www.ubc.ca/">University of British Columbia</a>, where I completed undergraduate studies in mathematics. Since then, I have been living and working as a teacher/curriculum-coordinator/engineer in Japan for the past 15 years.</p>
         <h2 class="category">Interests</h2>
           <p>I like watching movies, cooking, puzzles and problem solving of all forms, tinkering with computer hardware and software, building and creating things, reading about health/psychology/science/tech/engineering, watching youtube, playing video games, and bicycle riding.</p>
         <h2 class="category">Currently Learning</h2>
@@ -52,7 +52,7 @@
         <h2>モティベーション</h2>
         <p>日本でフルスタックエンジニアとして、フロントエンドとバックエンドのシステムを開発しています。論理的な技術的課題や人に関わる問題など、さまざまな課題を解決することが大好きです。いつも学び続けることに情熱を持ち、新しい挑戦を楽しみにしており、スキルをさらに磨いていきたいと考えています。</p>
         <h2>背景</h2>
-        <p>カナダに生まれ育って、高校までトロントに住んでいました。その後、バンクーバーに引っ越して<a href="https://www.ubc.ca/">ブリティッシュコロンビア大学</a>に入って数学を専攻しました。卒業以来、14.5年間日本で教師/カリキュラムコーディネーター/エンジニアとして働いてきました。</p>
+        <p>カナダに生まれ育って、高校までトロントに住んでいました。その後、バンクーバーに引っ越して<a href="https://www.ubc.ca/">ブリティッシュコロンビア大学</a>に入って数学を専攻しました。卒業以来、15年間日本で教師/カリキュラムコーディネーター/エンジニアとして働いてきました。</p>
         <h2 class="category">趣味</h2>
           <p>映画、料理、パズル、問題を解くこと、パソコンのハードとソフト、物を作ること、読書(健康/心理/理科/技術/工学)、Youtube、ビデオゲーム、サイクリング等です。</p>
         <h2 class="category">勉強中</h2>

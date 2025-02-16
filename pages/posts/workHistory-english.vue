@@ -20,12 +20,12 @@
       </div>
     </section>
     <section>
-      <h2>Programming / Web Development(Student ----- / Hobby)</h2>
-      <div><span class="field">Years:</span> 2007-2009 & 2021-Present(~5000 hours)</div>
+      <h2>Programming / Web Development(Student / Hobby)</h2>
+      <div><span class="field">Years:</span> 2007-2009 & 2021-現在(~8000 hours)</div>
       <div><h3>Skills:</h3>
       <ul>
         <li>Work as a team and independently to create programs and websites</li>
-        <li>Plan, create, and update UI/UX of websites</li>
+        <li>Plan, create, and update websites</li>
         <li>Connect to backends for handling data and user authentication</li>
         <li>Use HTML, CSS, and frameworks such as React.js, Next.js, Vue.js, Nuxt.js, and Angular to create websites with components</li>
         <li>Manage global state in stores via libraries such as Redux, Vuex, Zustand etc.</li>
@@ -39,7 +39,7 @@
       </section>
       <section>
       <h2><a  href="https://laurus-school.com/"> Laurus International School of Science - Tokyo</a></h2>
-      <div><span class="field">Years:</span> 2016 - Present</div>
+      <div><span class="field">Years:</span> 2016 - 2024</div>
       <div><span class="field">Positions:</span> Head Teacher/ Curriculum Coordinator / Homeroom Teacher</div>
       <div><h3>Achievements and Awards:</h3>
       <ul>
