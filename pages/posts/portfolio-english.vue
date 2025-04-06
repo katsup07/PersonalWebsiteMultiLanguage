@@ -52,7 +52,7 @@ export default {
           appTitle: "Messenging App(Github only)",
           date: "April 2025(In Progress)",
           gitHubLink: "https://github.com/katsup07/messaging-app",
-          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB. Coming Soon: Authentication request middleware, logging middleware, and improvements to SSE/WebSocket.",
+          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB.Coming Soon: Middleware for authentication requests, refresh token verification, and logging.",
         },
         {
           pageLink: "https://recipes-ten-vert.vercel.app/recipes",
