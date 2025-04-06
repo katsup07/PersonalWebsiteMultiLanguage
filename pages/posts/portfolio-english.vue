@@ -48,6 +48,13 @@ export default {
     return {
       tableRows: [
         {
+          pageLink: "https://github.com/katsup07/messaging-app",
+          appTitle: "Messenging App(Github only)",
+          date: "April 2025(In Progress)",
+          gitHubLink: "https://github.com/katsup07/messaging-app",
+          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB. Coming Soon: Authentication request middleware, logging middleware, and improvements to SSE/WebSocket.",
+        },
+        {
           pageLink: "https://recipes-ten-vert.vercel.app/recipes",
           appTitle: "Recipe Book",
           date: "Sept 2023",

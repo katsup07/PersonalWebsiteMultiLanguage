@@ -47,6 +47,13 @@ export default {
     return {
       tableRows: [
       {
+          pageLink: "https://github.com/katsup07/messaging-App",
+          appTitle: "Messenging App(Github only)",
+          date: "2025年4月(進行中)",
+          gitHubLink: "https://github.com/katsup07/messaging-App",
+          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB. 近日公開予定：認証リクエストミドルウェア、ログミドルウェア、SSE/WebSocketの改善.",
+        },
+      {
           pageLink: "https://recipes-ten-vert.vercel.app/recipes",
           appTitle: "Recipe Book",
           date: "2023年9月",

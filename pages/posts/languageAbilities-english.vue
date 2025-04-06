@@ -14,7 +14,7 @@
       <ul>
         <li><span class="field">Reading - N1</span></li>
         <li><span class="field">Speaking / Listening N2</span></li>
-        <li><span class="field">Writing / Typing - N2 </span></li>
+        <li><span class="field">Writing / Typing - N1 </span></li>
       </ul>
     </section>
   </div>

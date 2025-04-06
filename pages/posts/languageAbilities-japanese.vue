@@ -14,7 +14,7 @@
       <ul>
         <li><span class="field">読解力 - N1</span></li>
         <li><span class="field">会話力 / 聴解力 N2</span></li>
-        <li><span class="field">文章力 - N2</span></li>
+        <li><span class="field">文章力 - N1</span></li>
       </ul>
     </section>
   </div>

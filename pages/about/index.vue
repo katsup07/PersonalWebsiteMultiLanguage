@@ -20,7 +20,7 @@
         <h2 class="category">Currently Learning</h2>
         <ul>
           <li><a href="https://www.jlpt.jp/e/about/levelsummary.html">N1</a> level Japanese</li>
-          <li>Programming - <a href="https://docs.angularjs.org/guide/introduction/">angular.js</a>, <a href="https://nodejs.org/en/about/">Node.js</a>, <a href="https://www.mysql.com/">Databases</a>, <a href="https://www.npmjs.com/package/sass">SASS</a>, <a href="https://medium.com/geekculture/23-java-design-patterns-c1ff40faa5cd">design patterns</a>, <a href="https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118">best practices</a> and more</li>
+          <li>Engineering - <a href="https://www.docker.com/">Docker</a>, <a href="https://en.wikipedia.org/wiki/SQL">SQL</a>, Databases, <a href="https://www.djangoproject.com/">Python/Django</a>, <a href="https://refactoring.guru/design-patterns">design patterns</a>, <a href="https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118">best practices</a> and more</li>
         </ul>
         <h2>Github</h2>
         <ul>
@@ -57,9 +57,8 @@
           <p>映画、料理、パズル、問題を解くこと、パソコンのハードとソフト、物を作ること、読書(健康/心理/理科/技術/工学)、Youtube、ビデオゲーム、サイクリング等です。</p>
         <h2 class="category">勉強中</h2>
         <ul>
-          <li>日本語能力試験 <a href="https://www.jlpt.jp/e/about/levelsummary.html">N1</a> レベルの日本語です</li>
-          <li>プログラミング - <a href="https://docs.angularjs.org/guide/introduction/">angular.js</a>, <a href="https://nodejs.org/en/about/">Node.js</a>, <a href="https://www.mysql.com/">Databases</a>, <a href="https://www.npmjs.com/package/sass">SASS</a>, <a href="https://medium.com/geekculture/23-java-design-patterns-c1ff40faa5cd">design patterns</a>, <a href="https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118">best practices</a>です</li>
-        </ul>
+          <li>日本語能力試験 <a href="https://www.jlpt.jp/e/about/levelsummary.html">N1</a> レベルの日本語です。</li>
+          <li>エンジニアリング - <a href="https://www.docker.com/">Docker</a>、<a href="https://en.wikipedia.org/wiki/SQL">SQL</a>、データベース、<a href="https://www.djangoproject.com/">Python/Django</a>、<a href="https://refactoring.guru/ja/design-patterns">デザインパターン</a>、<a href="https://code.tutsplus.com/tutorials/top-15-best-practices-for-writing-super-readable-code--net-8118">ベストプラクティス</a> 等です。</li> </ul>
         <h2>Github</h2>
         <ul>
           <li>私の<a href="https://github.com/katsup07">githubのアカウント</a>に終了したプロジェクトと開発中のプロジェクトがあります</li>
