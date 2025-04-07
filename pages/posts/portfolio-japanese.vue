@@ -51,7 +51,7 @@ export default {
           appTitle: "Messenging App(Github only)",
           date: "2025年4月(進行中)",
           gitHubLink: "https://github.com/katsup07/messaging-App",
-          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB. 近日公開予定：認証リクエスト用ミドルウェア、リフレッシュトークンの検証、ログ記録機能。",
+          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB. 近日公開予定：ログ記録機能。",
         },
       {
           pageLink: "https://recipes-ten-vert.vercel.app/recipes",
