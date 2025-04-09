@@ -47,11 +47,11 @@ export default {
     return {
       tableRows: [
       {
-          pageLink: "https://github.com/katsup07/messaging-App",
-          appTitle: "Messenging App(Github only)",
+          pageLink: "https://messaging-app-client-o0b82wrpg-katsup07s-projects.vercel.app/",
+          appTitle: "Messenging App",
           date: "2025年4月(進行中)",
           gitHubLink: "https://github.com/katsup07/messaging-App",
-          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB. 近日公開予定：ログ記録機能。",
+          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB.",
         },
       {
           pageLink: "https://recipes-ten-vert.vercel.app/recipes",
