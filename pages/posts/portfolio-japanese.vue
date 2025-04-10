@@ -47,7 +47,7 @@ export default {
     return {
       tableRows: [
       {
-          pageLink: "https://messaging-app-client-o0b82wrpg-katsup07s-projects.vercel.app/",
+          pageLink: "https://messaging-app-client-ebon.vercel.app/",
           appTitle: "Messenging App",
           date: "2025年4月(進行中)",
           gitHubLink: "https://github.com/katsup07/messaging-App",
