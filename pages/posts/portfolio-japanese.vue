@@ -51,7 +51,7 @@ export default {
           appTitle: "Messenging App",
           date: "2025年4月(進行中)",
           gitHubLink: "https://github.com/katsup07/messaging-App",
-          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB.",
+          note: "Created with React, Typescript, Node.js, Express.js, and MongoDB, Vercel, and Railway.",
         },
       {
           pageLink: "https://recipes-ten-vert.vercel.app/recipes",
