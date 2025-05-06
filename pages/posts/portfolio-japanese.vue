@@ -49,7 +49,7 @@ export default {
       {
           pageLink: "https://messaging-app-client-ebon.vercel.app/",
           appTitle: "Messenging App",
-          date: "2025年4月(進行中)",
+          date: "2025年4月",
           gitHubLink: "https://github.com/katsup07/messaging-App",
           note: "Created with React, Typescript, Node.js, Express.js, MongoDB, Vercel, and Railway.",
         },
