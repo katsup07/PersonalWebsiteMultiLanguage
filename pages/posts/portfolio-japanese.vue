@@ -47,8 +47,15 @@ export default {
     return {
       tableRows: [
       {
+          pageLink: "https://whiteboard-m78d.vercel.app/",
+          appTitle: "Whiteboard App",
+          date: "2025年5月",
+          gitHubLink: "https://github.com/katsup07/whiteboard",
+          note: "Created with React, Typescript, Node.js, Nest.js, MongoDB, Vercel, and Canvas API.",
+        },
+      {
           pageLink: "https://messaging-app-client-ebon.vercel.app/",
-          appTitle: "Messenging App",
+          appTitle: "Messaging App",
           date: "2025年4月",
           gitHubLink: "https://github.com/katsup07/messaging-App",
           note: "Created with React, Typescript, Node.js, Express.js, MongoDB, Vercel, and Railway.",
