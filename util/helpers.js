@@ -19,6 +19,7 @@ export async function getCommentsFromDatabase() {
 }
 
 const fireBaseApiKey = process.env.apiKey;
+const authorizedEmail = process.env.adminUsername;
 
 export async function signUserInOrUp(mode, emailAndPasswordData) {
   const url =
@@ -26,8 +27,8 @@ export async function signUserInOrUp(mode, emailAndPasswordData) {
       ? `https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=${fireBaseApiKey}`
       : `https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=${fireBaseApiKey}`;
 
-      try{
-      if(emailAndPasswordData.email !== 'luke@bear.com')
+    try{
+      if(emailAndPasswordData.email !== authorizedEmail)
         throw {error: { message: 'Only authorized admin users can login or sign up.'}};
 
       const response = await fetch(url, {

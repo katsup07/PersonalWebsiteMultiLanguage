@@ -46,6 +46,7 @@ export default {
    
   env: {
       apiKey: process.env.API_KEY,
+      adminUsername: process.env.ADMIN_USERNAME,
     },
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',

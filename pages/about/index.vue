@@ -3,7 +3,7 @@
     <!-- English -->
     <div class="container" v-if="isEnglish">
       <div class="about-page">
-        <h1 class="about-me">About Me</h1>   <img src="~static/assets/images/smile.jpg" alt="a picture of me"/>
+        <h1 class="about-me">About Me</h1>   <img src="~static/assets/images/smile22.png" alt="a picture of me"/>
         <ul class="personal-info">
           <li><span class="field">Name:</span> Brett</li>
           <li><span class="field">Nationality:</span> Canadian</li>
@@ -41,7 +41,7 @@
     <!-- Japanese -->
     <div class="container" v-if="!isEnglish">
       <div class="about-page">
-        <h1 class="about-me">About Me</h1>   <img src="~static/assets/images/smile.jpg" alt="a picture of me"/>
+        <h1 class="about-me">About Me</h1>   <img src="~static/assets/images/smile22.png" alt="a picture of me"/>
         <ul class="personal-info">
           <li><span class="field">名前:</span> ブレット</li>
           <li><span class="field">国籍:</span> カナダ</li>

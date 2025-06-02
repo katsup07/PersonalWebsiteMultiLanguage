@@ -25,11 +25,13 @@ export default {
   },
   computed: {
     comments() {
-      return this.$store.getters.getComments;
+      return this.$store.getters.getComments || [];
     },
   },
   async beforeCreate() {
-    const messages = await getCommentsFromDatabase();
+    const messages = await getCommentsFromDatabase(this.$store.getters.getWebToken);
+    if(!messages) return;
+    
     this.$store.dispatch("setMessages", messages);
   },
 };
